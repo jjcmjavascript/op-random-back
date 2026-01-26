@@ -1,0 +1,410 @@
+[
+  {
+    "id": "ST18-001",
+    "pack_id": "569018",
+    "name": "Uso-Hachi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-001.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-001.webp"
+  },
+  {
+    "id": "ST18-002",
+    "pack_id": "569018",
+    "name": "O-Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-002.webp"
+  },
+  {
+    "id": "ST18-003",
+    "pack_id": "569018",
+    "name": "San-Gorou",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-003.webp"
+  },
+  {
+    "id": "ST18-004",
+    "pack_id": "569018",
+    "name": "Zoro-Juurou",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-004.webp"
+  },
+  {
+    "id": "ST18-005",
+    "pack_id": "569018",
+    "name": "Luffy-Tarou",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-005.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-005.webp"
+  },
+  {
+    "id": "ST18-004_p1",
+    "pack_id": "569109",
+    "name": "Zoro-Juurou",
+    "rarity": "TreasureRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-004_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-004_p1.webp"
+  },
+  {
+    "id": "ST18-001_p1",
+    "pack_id": "569110",
+    "name": "Uso-Hachi",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-001_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-001_p1.webp"
+  },
+  {
+    "id": "ST18-005_p1",
+    "pack_id": "569111",
+    "name": "Luffy-Tarou",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-005_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-005_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-005_p1.webp"
+  },
+  {
+    "id": "ST18-004_p2",
+    "pack_id": "569112",
+    "name": "Zoro-Juurou",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-004_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p2.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-004_p2.webp"
+  },
+  {
+    "id": "ST18-001_p2",
+    "pack_id": "569302",
+    "name": "Uso-Hachi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-001_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_p2.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-001_p2.webp"
+  },
+  {
+    "id": "ST18-001_p3",
+    "pack_id": "569302",
+    "name": "Uso-Hachi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-001_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_p3.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-001_p3.webp"
+  },
+  {
+    "id": "ST18-001_r1",
+    "pack_id": "569302",
+    "name": "Uso-Hachi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-001_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-001_r1.webp"
+  },
+  {
+    "id": "ST18-002_p1",
+    "pack_id": "569302",
+    "name": "O-Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-002_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-002_p1.webp"
+  },
+  {
+    "id": "ST18-002_r1",
+    "pack_id": "569302",
+    "name": "O-Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-002_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-002_r1.webp"
+  },
+  {
+    "id": "ST18-003_p2",
+    "pack_id": "569302",
+    "name": "San-Gorou",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-003_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p2.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-003_p2.webp"
+  },
+  {
+    "id": "ST18-003_r1",
+    "pack_id": "569302",
+    "name": "San-Gorou",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-003_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-003_r1.webp"
+  },
+  {
+    "id": "ST18-003_p1",
+    "pack_id": "569901",
+    "name": "San-Gorou",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST18-003_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST18-003_p1.webp"
+  }
+]

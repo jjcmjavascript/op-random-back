@@ -1,0 +1,590 @@
+[
+  {
+    "id": "OP01-086_r1",
+    "pack_id": "569017",
+    "name": "Overheat",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-086_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-086_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 active Character with a cost of 3 or less to the owner's hand.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-086_r1.webp"
+  },
+  {
+    "id": "OP01-026",
+    "pack_id": "569101",
+    "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-026.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −10000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-026.webp"
+  },
+  {
+    "id": "OP01-027",
+    "pack_id": "569101",
+    "name": "Round Table",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-027.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-027.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Beautiful Pirates"
+    ],
+    "effect": "[Main] Give up to 1 of your opponent's Characters −10000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-027.webp"
+  },
+  {
+    "id": "OP01-028",
+    "pack_id": "569101",
+    "name": "Green Star Rafflesia",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-028.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-028.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-028.webp"
+  },
+  {
+    "id": "OP01-029",
+    "pack_id": "569101",
+    "name": "Radical Beam!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-029.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, that card gains an additional +2000 power.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-029.webp"
+  },
+  {
+    "id": "OP01-030",
+    "pack_id": "569101",
+    "name": "In Two Years!! At the Sabaody Archipelago!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-030.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-030.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-030.webp"
+  },
+  {
+    "id": "OP01-055",
+    "pack_id": "569101",
+    "name": "You Can Be My Samurai!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-055.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-055.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Main] You may rest 2 of your Characters: Draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-055.webp"
+  },
+  {
+    "id": "OP01-056",
+    "pack_id": "569101",
+    "name": "Demon Face",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-056.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-056.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Hawkins Pirates"
+    ],
+    "effect": "[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-056.webp"
+  },
+  {
+    "id": "OP01-057",
+    "pack_id": "569101",
+    "name": "Paradise Waterfall",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-057.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-057.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your Characters as active.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-057.webp"
+  },
+  {
+    "id": "OP01-058",
+    "pack_id": "569101",
+    "name": "Punk Gibson",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-058.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-058.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-058.webp"
+  },
+  {
+    "id": "OP01-059",
+    "pack_id": "569101",
+    "name": "BE-BENG!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-059.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-059.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Main] You may trash 1 {Land of Wano} type card from your hand: Set up to 1 of your {Land of Wano} type Character cards with a cost of 3 or less as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-059.webp"
+  },
+  {
+    "id": "OP01-086",
+    "pack_id": "569101",
+    "name": "Overheat",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-086.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-086.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 active Character with a cost of 3 or less to the owner's hand.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-086.webp"
+  },
+  {
+    "id": "OP01-087",
+    "pack_id": "569101",
+    "name": "Officer Agents",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-087.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-087.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Counter] Play up to 1 {Baroque Works} type Character card with a cost of 3 or less from your hand.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-087.webp"
+  },
+  {
+    "id": "OP01-088",
+    "pack_id": "569101",
+    "name": "Desert Spada",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-088.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-088.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-088.webp"
+  },
+  {
+    "id": "OP01-089",
+    "pack_id": "569101",
+    "name": "Crescent Cutlass",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-089.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-089.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Counter] If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 5 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-089.webp"
+  },
+  {
+    "id": "OP01-090",
+    "pack_id": "569101",
+    "name": "Baroque Works",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-090.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-090.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works} type card other than [Baroque Works] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-090.webp"
+  },
+  {
+    "id": "OP01-115",
+    "pack_id": "569101",
+    "name": "Elephant's Marchoo",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-115.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-115.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-115.webp"
+  },
+  {
+    "id": "OP01-116",
+    "pack_id": "569101",
+    "name": "Artificial Devil Fruit SMILE",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-116.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-116.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; play up to 1 {SMILE} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-116.webp"
+  },
+  {
+    "id": "OP01-117",
+    "pack_id": "569101",
+    "name": "Sheep's Horn",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-117.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-117.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-117.webp"
+  },
+  {
+    "id": "OP01-118",
+    "pack_id": "569101",
+    "name": "Ulti-Mortar",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-118.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-118.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Counter] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, draw 1 card.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-118.webp"
+  },
+  {
+    "id": "OP01-119",
+    "pack_id": "569101",
+    "name": "Thunder Bagua",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-119.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-119.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-119.webp"
+  },
+  {
+    "id": "OP01-029_p2",
+    "pack_id": "569301",
+    "name": "Radical Beam!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-029_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, that card gains an additional +2000 power.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-029_p2.webp"
+  },
+  {
+    "id": "OP01-029_p3",
+    "pack_id": "569301",
+    "name": "Radical Beam!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-029_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, that card gains an additional +2000 power.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-029_p3.webp"
+  },
+  {
+    "id": "OP01-029_r1",
+    "pack_id": "569301",
+    "name": "Radical Beam!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-029_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, that card gains an additional +2000 power.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-029_r1.webp"
+  },
+  {
+    "id": "OP01-055_p1",
+    "pack_id": "569302",
+    "name": "You Can Be My Samurai!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-055_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-055_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Main] You may rest 2 of your Characters: Draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-055_p1.webp"
+  },
+  {
+    "id": "OP01-055_r1",
+    "pack_id": "569302",
+    "name": "You Can Be My Samurai!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-055_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-055_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Main] You may rest 2 of your Characters: Draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-055_r1.webp"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ST06-014",
+    "pack_id": "569006",
+    "name": "Shockwave",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST06-014.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST06-014.webp"
+  },
+  {
+    "id": "ST06-015",
+    "pack_id": "569006",
+    "name": "Great Eruption",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST06-015.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-015.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST06-015.webp"
+  },
+  {
+    "id": "ST06-016",
+    "pack_id": "569006",
+    "name": "White Out",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST06-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-016.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST06-016.webp"
+  },
+  {
+    "id": "ST06-014_p2",
+    "pack_id": "569301",
+    "name": "Shockwave",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST06-014_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p2.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST06-014_p2.webp"
+  },
+  {
+    "id": "ST06-014_p3",
+    "pack_id": "569301",
+    "name": "Shockwave",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST06-014_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p3.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST06-014_p3.webp"
+  },
+  {
+    "id": "ST06-014_r1",
+    "pack_id": "569301",
+    "name": "Shockwave",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST06-014_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_r1.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST06-014_r1.webp"
+  }
+]

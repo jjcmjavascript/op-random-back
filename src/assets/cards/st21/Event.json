@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ST21-016",
+    "pack_id": "569021",
+    "name": "Gum-Gum Dawn Whip",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST21-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-016.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, up to 1 of your opponent's Characters with 4000 power or less cannot activate [Blocker] during this turn.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST21-016.webp"
+  },
+  {
+    "id": "ST21-017",
+    "pack_id": "569021",
+    "name": "Gum-Gum Mole Pistol",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST21-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-017.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Give up to 1 of your opponent's Characters −5000 power during this turn. Then, if you have a Character with 6000 power or more, K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST21-017.webp"
+  }
+]

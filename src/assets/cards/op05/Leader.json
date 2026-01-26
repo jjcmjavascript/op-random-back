@@ -1,0 +1,472 @@
+[
+  {
+    "id": "OP05-060_p3",
+    "pack_id": "569018",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-060_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p3.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-060_p3.webp"
+  },
+  {
+    "id": "OP05-001",
+    "pack_id": "569105",
+    "name": "Sabo",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-001.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001.png?251212",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-001.webp"
+  },
+  {
+    "id": "OP05-001_p1",
+    "pack_id": "569105",
+    "name": "Sabo",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-001_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p1.png?251212",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-001_p1.webp"
+  },
+  {
+    "id": "OP05-002",
+    "pack_id": "569105",
+    "name": "Belo Betty",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-002.png?251212",
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may trash 1 {Revolutionary Army} type card from your hand: Up to 3 of your {Revolutionary Army} type Characters or Characters with a [Trigger] gain +3000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-002.webp"
+  },
+  {
+    "id": "OP05-002_p1",
+    "pack_id": "569105",
+    "name": "Belo Betty",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-002_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-002_p1.png?251212",
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may trash 1 {Revolutionary Army} type card from your hand: Up to 3 of your {Revolutionary Army} type Characters or Characters with a [Trigger] gain +3000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-002_p1.webp"
+  },
+  {
+    "id": "OP05-022",
+    "pack_id": "569105",
+    "name": "Donquixote Rosinante",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-022.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022.png?251212",
+    "colors": [
+      "Green",
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-022.webp"
+  },
+  {
+    "id": "OP05-022_p1",
+    "pack_id": "569105",
+    "name": "Donquixote Rosinante",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-022_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p1.png?251212",
+    "colors": [
+      "Green",
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-022_p1.webp"
+  },
+  {
+    "id": "OP05-041",
+    "pack_id": "569105",
+    "name": "Sakazuki",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-041.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-041.png?251212",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card.<br>[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-041.webp"
+  },
+  {
+    "id": "OP05-041_p1",
+    "pack_id": "569105",
+    "name": "Sakazuki",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-041_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-041_p1.png?251212",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card.<br>[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-041_p1.webp"
+  },
+  {
+    "id": "OP05-060",
+    "pack_id": "569105",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-060.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-060.webp"
+  },
+  {
+    "id": "OP05-060_p1",
+    "pack_id": "569105",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-060_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-060_p1.webp"
+  },
+  {
+    "id": "OP05-098",
+    "pack_id": "569105",
+    "name": "Enel",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-098.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-098.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] When your number of Life cards becomes 0, add 1 card from the top of your deck to the top of your Life cards. Then, trash 1 card from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-098.webp"
+  },
+  {
+    "id": "OP05-098_p1",
+    "pack_id": "569105",
+    "name": "Enel",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-098_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-098_p1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] When your number of Life cards becomes 0, add 1 card from the top of your deck to the top of your Life cards. Then, trash 1 card from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-098_p1.webp"
+  },
+  {
+    "id": "OP05-001_p2",
+    "pack_id": "569202",
+    "name": "Sabo",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-001_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p2.png?251212",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-001_p2.webp"
+  },
+  {
+    "id": "OP05-002_p2",
+    "pack_id": "569202",
+    "name": "Belo Betty",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-002_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-002_p2.png?251212",
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may trash 1 {Revolutionary Army} type card from your hand: Up to 3 of your {Revolutionary Army} type Characters or Characters with a [Trigger] gain +3000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-002_p2.webp"
+  },
+  {
+    "id": "OP05-022_p2",
+    "pack_id": "569202",
+    "name": "Donquixote Rosinante",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-022_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png?251212",
+    "colors": [
+      "Green",
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-022_p2.webp"
+  },
+  {
+    "id": "OP05-060_p4",
+    "pack_id": "569202",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-060_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p4.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-060_p4.webp"
+  },
+  {
+    "id": "OP05-098_p2",
+    "pack_id": "569202",
+    "name": "Enel",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-098_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-098_p2.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] When your number of Life cards becomes 0, add 1 card from the top of your deck to the top of your Life cards. Then, trash 1 card from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-098_p2.webp"
+  },
+  {
+    "id": "OP05-060_p2",
+    "pack_id": "569901",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP05-060_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p2.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-060_p2.webp"
+  }
+]

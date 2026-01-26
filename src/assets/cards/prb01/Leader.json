@@ -1,0 +1,50 @@
+[
+  {
+    "id": "PRB01-001",
+    "pack_id": "569301",
+    "name": "Sanji",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/PRB01-001.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/PRB01-001.webp"
+  },
+  {
+    "id": "PRB01-001_p1",
+    "pack_id": "569301",
+    "name": "Sanji",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/PRB01-001_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/PRB01-001_p1.webp"
+  }
+]

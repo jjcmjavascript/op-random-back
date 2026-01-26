@@ -1,0 +1,700 @@
+[
+  {
+    "id": "OP04-016",
+    "pack_id": "569104",
+    "name": "Bad Manners Kick Course",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-016.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Alabasta",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-016.webp"
+  },
+  {
+    "id": "OP04-017",
+    "pack_id": "569104",
+    "name": "Happiness Punch",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-017.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Alabasta",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn. Then, if your Leader is active, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-017.webp"
+  },
+  {
+    "id": "OP04-018",
+    "pack_id": "569104",
+    "name": "Enchanting Vertigo Dance",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[Main] If your Leader has the {Alabasta} type, give up to 2 of your opponent's Characters −2000 power during this turn.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-018.webp"
+  },
+  {
+    "id": "OP04-035",
+    "pack_id": "569104",
+    "name": "Spiderweb",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-035.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-035.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your Characters as active.",
+    "trigger": "[Trigger] Up to 1 of your Leader gains +2000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-035.webp"
+  },
+  {
+    "id": "OP04-036",
+    "pack_id": "569104",
+    "name": "Donquixote Family",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-036.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-036.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-036.webp"
+  },
+  {
+    "id": "OP04-037",
+    "pack_id": "569104",
+    "name": "Flapping Thread",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-037.webp"
+  },
+  {
+    "id": "OP04-038",
+    "pack_id": "569104",
+    "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Main]/[Counter] Rest up to 1 of your opponent's Leader or Character cards. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+    "trigger": "[Trigger] Set up to 5 of your DON!! cards as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-038.webp"
+  },
+  {
+    "id": "OP04-055",
+    "pack_id": "569104",
+    "name": "Plague Rounds",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-055.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-055.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main] You may trash 1 [Ice Oni] from your hand and place 1 Character with a cost of 4 or less at the bottom of the owner's deck: Play 1 [Ice Oni] from your trash.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-055.webp"
+  },
+  {
+    "id": "OP04-056",
+    "pack_id": "569104",
+    "name": "Gum-Gum Red Roc",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-056.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-056.webp"
+  },
+  {
+    "id": "OP04-057",
+    "pack_id": "569104",
+    "name": "Dragon Twister Demolition Breath",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-057.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-057.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 6 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-057.webp"
+  },
+  {
+    "id": "OP04-074",
+    "pack_id": "569104",
+    "name": "Colors Trap",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-074.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-074.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-074.webp"
+  },
+  {
+    "id": "OP04-075",
+    "pack_id": "569104",
+    "name": "Nez-Palm Cannon",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-075.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-075.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-075.webp"
+  },
+  {
+    "id": "OP04-076",
+    "pack_id": "569104",
+    "name": "Weakness...Is an Unforgivable Sin.",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-076.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-076.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-076.webp"
+  },
+  {
+    "id": "OP04-093",
+    "pack_id": "569104",
+    "name": "Gum-Gum King Kong Gun",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-093.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-093.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Up to 1 of your {Dressrosa} type Characters gains +6000 power during this turn. Then, if you have 15 or more cards in your trash, that card gains [Double Attack] during this turn.<br>(This card deals 2 damage.)",
+    "trigger": "[Trigger] Draw 3 cards and trash 2 cards from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-093.webp"
+  },
+  {
+    "id": "OP04-094",
+    "pack_id": "569104",
+    "name": "Trueno Bastardo",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-094.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-094.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "[Main] Choose up to 1 of your opponent's Characters with a cost of 4 or less and K.O. it. If you have 15 or more cards in your trash, choose up to 1 of your opponent's Characters with a cost of 6 or less instead of a Character with a cost of 4 or less.",
+    "trigger": "[Trigger] You may rest your Leader: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-094.webp"
+  },
+  {
+    "id": "OP04-095",
+    "pack_id": "569104",
+    "name": "Barrier!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-095.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-095.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Barto Club"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 15 or more cards in your trash, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-095.webp"
+  },
+  {
+    "id": "OP04-115",
+    "pack_id": "569104",
+    "name": "Gun Modoki",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-115.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-115.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Main] You may add 1 card from the top or bottom of your Life cards to your hand: Up to 1 of your {Land of Wano} type Characters gains [Double Attack] during this turn.<br>(This card deals 2 damage.)",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-115.webp"
+  },
+  {
+    "id": "OP04-116",
+    "pack_id": "569104",
+    "name": "Diable Jambe Joue Shot",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-116.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-116.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Vinsmoke Family"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you and your opponent have a total of 4 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-116.webp"
+  },
+  {
+    "id": "OP04-117",
+    "pack_id": "569104",
+    "name": "Heavenly Fire",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-117.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-117.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+    "trigger": "[Trigger] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-117.webp"
+  },
+  {
+    "id": "OP04-036_p2",
+    "pack_id": "569301",
+    "name": "Donquixote Family",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-036_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-036_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-036_p2.webp"
+  },
+  {
+    "id": "OP04-036_p3",
+    "pack_id": "569301",
+    "name": "Donquixote Family",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-036_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-036_p3.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-036_p3.webp"
+  },
+  {
+    "id": "OP04-036_r1",
+    "pack_id": "569301",
+    "name": "Donquixote Family",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-036_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-036_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-036_r1.webp"
+  },
+  {
+    "id": "OP04-056_p2",
+    "pack_id": "569301",
+    "name": "Gum-Gum Red Roc",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-056_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-056_p2.webp"
+  },
+  {
+    "id": "OP04-056_p3",
+    "pack_id": "569301",
+    "name": "Gum-Gum Red Roc",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-056_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-056_p3.webp"
+  },
+  {
+    "id": "OP04-056_p4",
+    "pack_id": "569301",
+    "name": "Gum-Gum Red Roc",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-056_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-056_p4.webp"
+  },
+  {
+    "id": "OP04-056_r1",
+    "pack_id": "569301",
+    "name": "Gum-Gum Red Roc",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-056_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-056_r1.webp"
+  },
+  {
+    "id": "OP04-095_p2",
+    "pack_id": "569301",
+    "name": "Barrier!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-095_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-095_p2.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Barto Club"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 15 or more cards in your trash, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-095_p2.webp"
+  },
+  {
+    "id": "OP04-095_p3",
+    "pack_id": "569301",
+    "name": "Barrier!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-095_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-095_p3.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Barto Club"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 15 or more cards in your trash, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-095_p3.webp"
+  },
+  {
+    "id": "OP04-095_r1",
+    "pack_id": "569301",
+    "name": "Barrier!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-095_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-095_r1.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Barto Club"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 15 or more cards in your trash, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-095_r1.webp"
+  },
+  {
+    "id": "OP04-016_p1",
+    "pack_id": "569302",
+    "name": "Bad Manners Kick Course",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-016_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-016_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Alabasta",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-016_p1.webp"
+  },
+  {
+    "id": "OP04-016_r1",
+    "pack_id": "569302",
+    "name": "Bad Manners Kick Course",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP04-016_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-016_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Alabasta",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-016_r1.webp"
+  }
+]

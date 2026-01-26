@@ -1,0 +1,246 @@
+[
+  {
+    "id": "ST15-001",
+    "pack_id": "569015",
+    "name": "Atmos",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-001.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-001.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[When Attacking] If your Leader is [Edward.Newgate], you cannot add Life cards to your hand using your own effects during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-001.webp"
+  },
+  {
+    "id": "ST15-002",
+    "pack_id": "569015",
+    "name": "Edward.Newgate",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.<br>[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-002.webp"
+  },
+  {
+    "id": "ST15-003",
+    "pack_id": "569015",
+    "name": "Kingdew",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-003.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Opponent's Turn] When this Character is K.O.'d by an effect, up to 1 of your Leader gains +2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-003.webp"
+  },
+  {
+    "id": "ST15-004",
+    "pack_id": "569015",
+    "name": "Thatch",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-004.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 2000,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −2000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-004.webp"
+  },
+  {
+    "id": "ST15-005",
+    "pack_id": "569015",
+    "name": "Portgas.D.Ace",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)<br>[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-005.webp"
+  },
+  {
+    "id": "ST15-002_p1",
+    "pack_id": "569110",
+    "name": "Edward.Newgate",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-002_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.<br>[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-002_p1.webp"
+  },
+  {
+    "id": "ST15-002_p2",
+    "pack_id": "569302",
+    "name": "Edward.Newgate",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-002_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.<br>[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-002_p2.webp"
+  },
+  {
+    "id": "ST15-002_r1",
+    "pack_id": "569302",
+    "name": "Edward.Newgate",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-002_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.<br>[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-002_r1.webp"
+  },
+  {
+    "id": "ST15-005_p1",
+    "pack_id": "569901",
+    "name": "Portgas.D.Ace",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-005_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)<br>[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-005_p1.webp"
+  },
+  {
+    "id": "ST15-005_p2",
+    "pack_id": "569901",
+    "name": "Portgas.D.Ace",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST15-005_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)<br>[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST15-005_p2.webp"
+  }
+]

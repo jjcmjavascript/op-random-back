@@ -1,0 +1,154 @@
+[
+  {
+    "id": "EB01-001",
+    "pack_id": "569201",
+    "name": "Kouzuki Oden",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/EB01-001.png?260109",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png?260109",
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.<br>[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB01-001.webp"
+  },
+  {
+    "id": "EB01-001_p1",
+    "pack_id": "569201",
+    "name": "Kouzuki Oden",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/EB01-001_p1.png?260109",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png?260109",
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.<br>[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB01-001_p1.webp"
+  },
+  {
+    "id": "EB01-021",
+    "pack_id": "569201",
+    "name": "Hannyabal",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/EB01-021.png?260109",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png?260109",
+    "colors": [
+      "Blue",
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB01-021.webp"
+  },
+  {
+    "id": "EB01-021_p1",
+    "pack_id": "569201",
+    "name": "Hannyabal",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/EB01-021_p1.png?260109",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png?260109",
+    "colors": [
+      "Blue",
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB01-021_p1.webp"
+  },
+  {
+    "id": "EB01-040",
+    "pack_id": "569201",
+    "name": "Kyros",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/EB01-040.png?260109",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png?260109",
+    "colors": [
+      "Black",
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB01-040.webp"
+  },
+  {
+    "id": "EB01-040_p1",
+    "pack_id": "569201",
+    "name": "Kyros",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/EB01-040_p1.png?260109",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png?260109",
+    "colors": [
+      "Black",
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB01-040_p1.webp"
+  }
+]

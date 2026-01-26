@@ -1,0 +1,171 @@
+[
+  {
+    "id": "ST20-001",
+    "pack_id": "569020",
+    "name": "Charlotte Katakuri",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-001.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-001.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-001.webp"
+  },
+  {
+    "id": "ST20-002",
+    "pack_id": "569020",
+    "name": "Charlotte Cracker",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-002.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 card from the top of your Life cards instead.",
+    "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-002.webp"
+  },
+  {
+    "id": "ST20-003",
+    "pack_id": "569020",
+    "name": "Charlotte Brulee",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, add this card to your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-003.webp"
+  },
+  {
+    "id": "ST20-004",
+    "pack_id": "569020",
+    "name": "Charlotte Pudding",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-004.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] You may add 1 card from the top of your Life cards to your hand: Set up to 1 of your {Big Mom Pirates} type Characters with a cost of 3 or less as active.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-004.webp"
+  },
+  {
+    "id": "ST20-005",
+    "pack_id": "569020",
+    "name": "Charlotte Linlin",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-005.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] You may trash 1 card from your hand: Your opponent chooses one:<br>• Your opponent trashes 2 cards from their hand.<br>• Trash 1 card from the top of your opponent's Life cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-005.webp"
+  },
+  {
+    "id": "ST20-003_p1",
+    "pack_id": "569302",
+    "name": "Charlotte Brulee",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-003_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, add this card to your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-003_p1.webp"
+  },
+  {
+    "id": "ST20-003_r1",
+    "pack_id": "569302",
+    "name": "Charlotte Brulee",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST20-003_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, add this card to your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST20-003_r1.webp"
+  }
+]

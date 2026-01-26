@@ -1,0 +1,231 @@
+[
+  {
+    "id": "P-057_p1",
+    "pack_id": "569016",
+    "name": "Fleeting Lullaby",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-057_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], up to 2 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-057_p1.webp"
+  },
+  {
+    "id": "P-058_p1",
+    "pack_id": "569016",
+    "name": "Where the Wind Blows",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-058_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], set all of your {FILM} type Characters as active at the end of this turn.",
+    "trigger": "[Trigger] Set all of your {FILM} type Characters as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-058_p1.webp"
+  },
+  {
+    "id": "P-059_p1",
+    "pack_id": "569016",
+    "name": "The World's Continuation",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-059_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Counter] If your Leader is [Uta], you may return any number of Characters on your field to the owner's hand. Up to 1 of your Leader or Character cards gains +2000 power during this battle for every returned Character.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-059_p1.webp"
+  },
+  {
+    "id": "P-060_p1",
+    "pack_id": "569016",
+    "name": "Tot Musica",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-060_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] You may rest 1 of your [Uta] cards: Rest up to 2 of your opponent's DON!! cards.<br>",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-060_p1.webp"
+  },
+  {
+    "id": "P-002",
+    "pack_id": "569901",
+    "name": "I Smell Adventure!!!",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-002.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-002.webp"
+  },
+  {
+    "id": "P-024",
+    "pack_id": "569901",
+    "name": "I'm Gonna Be King of the Pirates!!",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-024.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-024.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Your Leader gains +1000 power for each of your Characters during this turn.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-024.webp"
+  },
+  {
+    "id": "P-057",
+    "pack_id": "569901",
+    "name": "Fleeting Lullaby",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-057.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], up to 2 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-057.webp"
+  },
+  {
+    "id": "P-058",
+    "pack_id": "569901",
+    "name": "Where the Wind Blows",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-058.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], set all of your {FILM} type Characters as active at the end of this turn.",
+    "trigger": "[Trigger] Set all of your {FILM} type Characters as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-058.webp"
+  },
+  {
+    "id": "P-059",
+    "pack_id": "569901",
+    "name": "The World's Continuation",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-059.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Counter] If your Leader is [Uta], you may return any number of Characters on your field to the owner's hand. Up to 1 of your Leader or Character cards gains +2000 power during this battle for every returned Character.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-059.webp"
+  },
+  {
+    "id": "P-060",
+    "pack_id": "569901",
+    "name": "Tot Musica",
+    "rarity": "Promo",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/P-060.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] You may rest 1 of your [Uta] cards: Rest up to 2 of your opponent's DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/P-060.webp"
+  }
+]

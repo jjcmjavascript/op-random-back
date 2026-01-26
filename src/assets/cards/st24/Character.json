@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ST24-001",
+    "pack_id": "569024",
+    "name": "Capone\"Gang\"Bege",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-001.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-001.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Firetank Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST24-001.webp"
+  },
+  {
+    "id": "ST24-002",
+    "pack_id": "569024",
+    "name": "Kid &amp; Killer",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-002.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST24-002.webp"
+  },
+  {
+    "id": "ST24-003",
+    "pack_id": "569024",
+    "name": "Basil Hawkins",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-003.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Supernovas",
+      "Hawkins Pirates"
+    ],
+    "effect": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST24-003.webp"
+  },
+  {
+    "id": "ST24-004",
+    "pack_id": "569024",
+    "name": "Law &amp; Bepo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Slash",
+      "Strike"
+    ],
+    "power": 11000,
+    "counter": null,
+    "types": [
+      "Minks",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters and that Character will not become active in your opponent's next Refresh Phase. Then, if your opponent has 2 or more rested Characters, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST24-004.webp"
+  },
+  {
+    "id": "ST24-005",
+    "pack_id": "569024",
+    "name": "X.Drake",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-005.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "Supernovas",
+      "Navy",
+      "Drake Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Supernovas} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST24-005.webp"
+  }
+]

@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "OP03-118_r1",
+    "pack_id": "569020",
+    "name": "Ikoku Sovereignty",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-118_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +5000 power during this battle.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-118_r1.webp"
+  },
+  {
+    "id": "OP03-121_r1",
+    "pack_id": "569020",
+    "name": "Thunder Bolt",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-121_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_r1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-121_r1.webp"
+  },
+  {
+    "id": "OP03-016",
+    "pack_id": "569103",
+    "name": "Flame Emperor",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-016.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] If your Leader is [Portgas.D.Ace], K.O. up to 1 of your opponent's Characters with 8000 power or less, and your Leader gains [Double Attack] and +3000 power during this turn.<br>(This card deals 2 damage.)",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-016.webp"
+  },
+  {
+    "id": "OP03-017",
+    "pack_id": "569103",
+    "name": "Cross Fire",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-017.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main]/[Counter] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-017.webp"
+  },
+  {
+    "id": "OP03-018",
+    "pack_id": "569103",
+    "name": "Fire Fist",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] You may trash 1 Event from your hand: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-018.webp"
+  },
+  {
+    "id": "OP03-018_p1",
+    "pack_id": "569103",
+    "name": "Fire Fist",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-018_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-018_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] You may trash 1 Event from your hand: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-018_p1.webp"
+  },
+  {
+    "id": "OP03-019",
+    "pack_id": "569103",
+    "name": "Fiery Doll",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-019.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] Your Leader gains +4000 power during this turn.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −10000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-019.webp"
+  },
+  {
+    "id": "OP03-036",
+    "pack_id": "569103",
+    "name": "Out-of-the-Bag",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-036.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-036.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Black Cat Pirates"
+    ],
+    "effect": "[Main] You may rest 1 of your {East Blue} type Characters: Set up to 1 of your [Kuro] cards as active.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-036.webp"
+  },
+  {
+    "id": "OP03-037",
+    "pack_id": "569103",
+    "name": "Tooth Attack",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "East Blue",
+      "Arlong Pirates"
+    ],
+    "effect": "[Main] You may rest 1 of your {East Blue} type Characters: K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-037.webp"
+  },
+  {
+    "id": "OP03-038",
+    "pack_id": "569103",
+    "name": "Deathly Poison Gas Bomb MH5",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Krieg Pirates"
+    ],
+    "effect": "[Main] Rest up to 2 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-038.webp"
+  },
+  {
+    "id": "OP03-039",
+    "pack_id": "569103",
+    "name": "One, Two, Jango",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-039.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-039.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Black Cat Pirates"
+    ],
+    "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 1 or less. Then, up to 1 of your Characters gains +1000 power during this turn.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-039.webp"
+  },
+  {
+    "id": "OP03-054",
+    "pack_id": "569103",
+    "name": "Usopp's Rubber Band of Doom!!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-054.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-054.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, you may trash 1 card from the top of your deck.",
+    "trigger": "[Trigger] Draw 1 card and you may trash 1 card from the top of your deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-054.webp"
+  },
+  {
+    "id": "OP03-055",
+    "pack_id": "569103",
+    "name": "Gum-Gum Giant Gavel",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-055.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader gains +4000 power during this battle. Then, you may trash 2 cards from the top of your deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-055.webp"
+  },
+  {
+    "id": "OP03-056",
+    "pack_id": "569103",
+    "name": "Sanji's Pilaf",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-056.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Main] Draw 2 cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-056.webp"
+  },
+  {
+    "id": "OP03-057",
+    "pack_id": "569103",
+    "name": "Three Thousand Worlds",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-057.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-057.webp"
+  },
+  {
+    "id": "OP03-072",
+    "pack_id": "569103",
+    "name": "Gum-Gum Jet Gatling",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-072.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-072.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Water Seven",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-072.webp"
+  },
+  {
+    "id": "OP03-073",
+    "pack_id": "569103",
+    "name": "Hull Dismantler Slash",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-073.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-073.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Water Seven",
+      "The Franky Family"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-073.webp"
+  },
+  {
+    "id": "OP03-074",
+    "pack_id": "569103",
+    "name": "Top Knot",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-074.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-074.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Water Seven",
+      "Galley-La Company"
+    ],
+    "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with a cost of 4 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-074.webp"
+  },
+  {
+    "id": "OP03-094",
+    "pack_id": "569103",
+    "name": "Air Door",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-094.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Main] If your Leader's type includes \"CP\", look at 5 cards from the top of your deck; play up to 1 Character card with a type including \"CP\" and a cost of 5 or less. Then, trash the rest.",
+    "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-094.webp"
+  },
+  {
+    "id": "OP03-095",
+    "pack_id": "569103",
+    "name": "Soap Sheep",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-095.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-095.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Main] Give up to 2 of your opponent's Characters −2 cost during this turn.",
+    "trigger": "[Trigger] Your opponent trashes 1 card from their hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-095.webp"
+  },
+  {
+    "id": "OP03-096",
+    "pack_id": "569103",
+    "name": "Tempest Kick Sky Slicer",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-096.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-096.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 0 or your opponent's Stages with a cost of 3 or less.",
+    "trigger": "[Trigger] Draw 2 cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-096.webp"
+  },
+  {
+    "id": "OP03-097",
+    "pack_id": "569103",
+    "name": "Six King Pistol",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-097.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-097.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-097.webp"
+  },
+  {
+    "id": "OP03-118",
+    "pack_id": "569103",
+    "name": "Ikoku Sovereignty",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-118.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +5000 power during this battle.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-118.webp"
+  },
+  {
+    "id": "OP03-119",
+    "pack_id": "569103",
+    "name": "Buzz Cut Mochi",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-119.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-119.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] If you have less Life cards than your opponent, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-119.webp"
+  },
+  {
+    "id": "OP03-120",
+    "pack_id": "569103",
+    "name": "Tropical Torment",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-120.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-120.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] If your opponent has 4 or more Life cards, trash up to 1 card from the top of your opponent's Life cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-120.webp"
+  },
+  {
+    "id": "OP03-121",
+    "pack_id": "569103",
+    "name": "Thunder Bolt",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-121.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-121.webp"
+  },
+  {
+    "id": "OP03-055_p2",
+    "pack_id": "569301",
+    "name": "Gum-Gum Giant Gavel",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-055_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader gains +4000 power during this battle. Then, you may trash 2 cards from the top of your deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-055_p2.webp"
+  },
+  {
+    "id": "OP03-055_p3",
+    "pack_id": "569301",
+    "name": "Gum-Gum Giant Gavel",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-055_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader gains +4000 power during this battle. Then, you may trash 2 cards from the top of your deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-055_p3.webp"
+  },
+  {
+    "id": "OP03-055_r1",
+    "pack_id": "569301",
+    "name": "Gum-Gum Giant Gavel",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-055_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader gains +4000 power during this battle. Then, you may trash 2 cards from the top of your deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-055_r1.webp"
+  },
+  {
+    "id": "OP03-056_p2",
+    "pack_id": "569301",
+    "name": "Sanji's Pilaf",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-056_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Main] Draw 2 cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-056_p2.webp"
+  },
+  {
+    "id": "OP03-056_p3",
+    "pack_id": "569301",
+    "name": "Sanji's Pilaf",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-056_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Main] Draw 2 cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-056_p3.webp"
+  },
+  {
+    "id": "OP03-056_p4",
+    "pack_id": "569301",
+    "name": "Sanji's Pilaf",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-056_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Main] Draw 2 cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-056_p4.webp"
+  },
+  {
+    "id": "OP03-056_r1",
+    "pack_id": "569301",
+    "name": "Sanji's Pilaf",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-056_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Main] Draw 2 cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-056_r1.webp"
+  },
+  {
+    "id": "OP03-057_p2",
+    "pack_id": "569301",
+    "name": "Three Thousand Worlds",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-057_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-057_p2.webp"
+  },
+  {
+    "id": "OP03-057_p3",
+    "pack_id": "569301",
+    "name": "Three Thousand Worlds",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-057_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-057_p3.webp"
+  },
+  {
+    "id": "OP03-057_p4",
+    "pack_id": "569301",
+    "name": "Three Thousand Worlds",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-057_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-057_p4.webp"
+  },
+  {
+    "id": "OP03-057_r1",
+    "pack_id": "569301",
+    "name": "Three Thousand Worlds",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-057_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-057_r1.webp"
+  },
+  {
+    "id": "OP03-094_p2",
+    "pack_id": "569301",
+    "name": "Air Door",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-094_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p2.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Main] If your Leader's type includes \"CP\", look at 5 cards from the top of your deck; play up to 1 Character card with a type including \"CP\" and a cost of 5 or less. Then, trash the rest.",
+    "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-094_p2.webp"
+  },
+  {
+    "id": "OP03-094_p3",
+    "pack_id": "569301",
+    "name": "Air Door",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-094_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p3.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Main] If your Leader's type includes \"CP\", look at 5 cards from the top of your deck; play up to 1 Character card with a type including \"CP\" and a cost of 5 or less. Then, trash the rest.",
+    "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-094_p3.webp"
+  },
+  {
+    "id": "OP03-094_r1",
+    "pack_id": "569301",
+    "name": "Air Door",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-094_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_r1.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Main] If your Leader's type includes \"CP\", look at 5 cards from the top of your deck; play up to 1 Character card with a type including \"CP\" and a cost of 5 or less. Then, trash the rest.",
+    "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-094_r1.webp"
+  },
+  {
+    "id": "OP03-121_p3",
+    "pack_id": "569301",
+    "name": "Thunder Bolt",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-121_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p3.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-121_p3.webp"
+  },
+  {
+    "id": "OP03-121_p4",
+    "pack_id": "569301",
+    "name": "Thunder Bolt",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-121_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p4.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-121_p4.webp"
+  },
+  {
+    "id": "OP03-121_r2",
+    "pack_id": "569301",
+    "name": "Thunder Bolt",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-121_r2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_r2.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-121_r2.webp"
+  },
+  {
+    "id": "OP03-072_p1",
+    "pack_id": "569302",
+    "name": "Gum-Gum Jet Gatling",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-072_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-072_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Water Seven",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-072_p1.webp"
+  },
+  {
+    "id": "OP03-072_r1",
+    "pack_id": "569302",
+    "name": "Gum-Gum Jet Gatling",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-072_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-072_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Water Seven",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-072_r1.webp"
+  },
+  {
+    "id": "OP03-097_r1",
+    "pack_id": "569302",
+    "name": "Six King Pistol",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-097_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-097_r1.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP03-097_r1.webp"
+  }
+]

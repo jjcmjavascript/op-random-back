@@ -1,0 +1,178 @@
+[
+  {
+    "id": "OP06-041",
+    "pack_id": "569106",
+    "name": "The Ark Noah",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-041.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-041.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Fish-Man Island"
+    ],
+    "effect": "[On Play] Rest all of your opponent's Characters.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-041.webp"
+  },
+  {
+    "id": "OP06-079",
+    "pack_id": "569106",
+    "name": "Kingdom of GERMA",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-079.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kingdom of GERMA"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-079.webp"
+  },
+  {
+    "id": "OP06-098",
+    "pack_id": "569106",
+    "name": "Thriller Bark",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-098.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-098.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Stage: If your Leader has the {Thriller Bark Pirates} type, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-098.webp"
+  },
+  {
+    "id": "OP06-117",
+    "pack_id": "569106",
+    "name": "The Ark Maxim",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-117.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-117.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may rest this card and 1 of your [Enel] cards: K.O. all of your opponent's Characters with a cost of 2 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-117.webp"
+  },
+  {
+    "id": "OP06-079_p2",
+    "pack_id": "569301",
+    "name": "Kingdom of GERMA",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-079_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079_p2.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kingdom of GERMA"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-079_p2.webp"
+  },
+  {
+    "id": "OP06-079_p3",
+    "pack_id": "569301",
+    "name": "Kingdom of GERMA",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-079_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079_p3.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kingdom of GERMA"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-079_p3.webp"
+  },
+  {
+    "id": "OP06-079_p4",
+    "pack_id": "569301",
+    "name": "Kingdom of GERMA",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-079_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079_p4.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kingdom of GERMA"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-079_p4.webp"
+  },
+  {
+    "id": "OP06-079_r1",
+    "pack_id": "569301",
+    "name": "Kingdom of GERMA",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP06-079_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kingdom of GERMA"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP06-079_r1.webp"
+  }
+]

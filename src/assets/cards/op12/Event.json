@@ -1,0 +1,493 @@
+[
+  {
+    "id": "OP12-016",
+    "pack_id": "569112",
+    "name": "To Never Doubt--That Is Power!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-016.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effect": "[Main] You may give 2 active DON!! cards to 1 of your [Silvers Rayleigh]: Your opponent cannot activate [Blocker] when the card given these DON!! cards attacks during this turn.<br>[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-016.webp"
+  },
+  {
+    "id": "OP12-017",
+    "pack_id": "569112",
+    "name": "Color of Observation Haki",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-017.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Look at 4 cards from the top of your deck; reveal up to 1 red Event or up to 1 Character card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-017.webp"
+  },
+  {
+    "id": "OP12-018",
+    "pack_id": "569112",
+    "name": "Color of the Supreme King Haki",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle. Then, you may rest 1 of your DON!! cards. If you do, give your opponent's Leader and all of their Characters −1000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-018.webp"
+  },
+  {
+    "id": "OP12-019",
+    "pack_id": "569112",
+    "name": "Color of Arms Haki",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-019.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Up to 1 of your Leader or Character cards gains +1000 power during this turn.<br>[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-019.webp"
+  },
+  {
+    "id": "OP12-037",
+    "pack_id": "569112",
+    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 3 of your DON!! cards: Rest up to a total of 2 of your opponent's Characters or DON!! cards.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-037.webp"
+  },
+  {
+    "id": "OP12-037_p1",
+    "pack_id": "569112",
+    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-037_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-037_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 3 of your DON!! cards: Rest up to a total of 2 of your opponent's Characters or DON!! cards.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-037_p1.webp"
+  },
+  {
+    "id": "OP12-038",
+    "pack_id": "569112",
+    "name": "Two-Sword Style Rashomon",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: K.O. up to 2 of your opponent's rested Characters with a base cost of 4 or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-038.webp"
+  },
+  {
+    "id": "OP12-039",
+    "pack_id": "569112",
+    "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-039.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-039.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Set your [Roronoa Zoro] Leader as active.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-039.webp"
+  },
+  {
+    "id": "OP12-057",
+    "pack_id": "569112",
+    "name": "Ice Block Pheasant Peck",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-057.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-057.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, trash 1 card from your hand.",
+    "trigger": "[Trigger] You may trash 1 card from your hand: Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-057.webp"
+  },
+  {
+    "id": "OP12-058",
+    "pack_id": "569112",
+    "name": "I Will Make Whitebeard the King of the Pirates",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-058.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-058.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 9,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", reveal 1 card from the top of your deck. If that card is a Character card with a type including \"Whitebeard Pirates\" and a cost of 9 or less, you may play that card. If you do, that Character gains [Rush] during this turn.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-058.webp"
+  },
+  {
+    "id": "OP12-059",
+    "pack_id": "569112",
+    "name": "Concasser",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-059.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-059.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is [Sanji], draw 1 card.<br>[Counter] If you have 4 or more Events in your trash, up to 1 of your Leader gains +4000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-059.webp"
+  },
+  {
+    "id": "OP12-060",
+    "pack_id": "569112",
+    "name": "Boeuf Burst",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-060.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-060.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is multicolored, choose one:<br>• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.<br>• If you have 6 or less cards in your hand, draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-060.webp"
+  },
+  {
+    "id": "OP12-060_p1",
+    "pack_id": "569112",
+    "name": "Boeuf Burst",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-060_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-060_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is multicolored, choose one:<br>• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.<br>• If you have 6 or less cards in your hand, draw 2 cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-060_p1.webp"
+  },
+  {
+    "id": "OP12-077",
+    "pack_id": "569112",
+    "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-077.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-077.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[Main] Select up to 1 of your [Trafalgar Law] cards and that card gains +2000 power during this turn. Then, if the selected card attacks during this turn, your opponent cannot activate [Blocker].",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-077.webp"
+  },
+  {
+    "id": "OP12-078",
+    "pack_id": "569112",
+    "name": "Brochette Blow",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-078.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-078.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-078.webp"
+  },
+  {
+    "id": "OP12-079",
+    "pack_id": "569112",
+    "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-079.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-079.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-079.webp"
+  },
+  {
+    "id": "OP12-096",
+    "pack_id": "569112",
+    "name": "Ursa Shock",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-096.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-096.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Revolutionary Army"
+    ],
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 4 or less. If you have a Character with a cost of 8 or more, you may select your opponent's Character with a cost of 6 or less instead.",
+    "trigger": "[Trigger] Draw 1 card and trash 1 card from the top of your deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-096.webp"
+  },
+  {
+    "id": "OP12-097",
+    "pack_id": "569112",
+    "name": "Captains Assembled",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-097.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-097.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Captains Assembled] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-097.webp"
+  },
+  {
+    "id": "OP12-098",
+    "pack_id": "569112",
+    "name": "Hair Removal Fist",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-098.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-098.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Impel Down",
+      "Revolutionary Army"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have a {Revolutionary Army} type Character with a cost of 8 or more, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card and trash 1 card from the top of your deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-098.webp"
+  },
+  {
+    "id": "OP12-115",
+    "pack_id": "569112",
+    "name": "I Love You!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-115.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-115.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 [Trafalgar Law] from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-115.webp"
+  },
+  {
+    "id": "OP12-116",
+    "pack_id": "569112",
+    "name": "We'll Ring the Bell Waiting for You!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-116.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-116.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Jaya",
+      "Sky Island",
+      "Shandian Warrior"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal a total of up to 2 {Shandian Warrior} type Character cards or [Mont Blanc Noland] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-116.webp"
+  },
+  {
+    "id": "OP12-117",
+    "pack_id": "569112",
+    "name": "Slam Gibson",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP12-117.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-117.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Main] You may rest 5 of your DON!! cards: If your Leader has the {Supernovas} type, add up to 1 Character with a cost of 9 or less to the top or bottom of the owner's Life cards face-down.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP12-117.webp"
+  }
+]

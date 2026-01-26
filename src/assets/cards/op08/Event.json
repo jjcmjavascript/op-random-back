@@ -1,0 +1,476 @@
+[
+  {
+    "id": "OP08-017",
+    "pack_id": "569108",
+    "name": "I'd Never Shoot You!!!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-017.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Drum Kingdom"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-017.webp"
+  },
+  {
+    "id": "OP08-018",
+    "pack_id": "569108",
+    "name": "Cloven Rose",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Drum Kingdom",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Up to 3 of your Characters gain +1000 power during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-018.webp"
+  },
+  {
+    "id": "OP08-019",
+    "pack_id": "569108",
+    "name": "Munch-Munch Mutation",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-019.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Drum Kingdom"
+    ],
+    "effect": "[Main]/[Counter] Give up to 1 of your opponent's Characters −3000 power during this turn. Then, up to 1 of your Characters gains +3000 power during this turn.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-019.webp"
+  },
+  {
+    "id": "OP08-036",
+    "pack_id": "569108",
+    "name": "Electrical Luna",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-036.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-036.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Minks"
+    ],
+    "effect": "[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-036.webp"
+  },
+  {
+    "id": "OP08-037",
+    "pack_id": "569108",
+    "name": "Garchu",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Minks"
+    ],
+    "effect": "[Main] You may rest 1 of your {Minks} type Characters: Rest up to 1 of your opponent's Characters.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-037.webp"
+  },
+  {
+    "id": "OP08-038",
+    "pack_id": "569108",
+    "name": "We Would Never Sell a Comrade to an Enemy!!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Minks",
+      "The Akazaya Nine"
+    ],
+    "effect": "[Main] You may rest 2 of your Characters: None of your Characters can be K.O.'d by your opponent's effects until the end of your opponent's next turn.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-038.webp"
+  },
+  {
+    "id": "OP08-053",
+    "pack_id": "569108",
+    "name": "Thank You...for Loving Me!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-053.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-053.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" or [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the top or bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-053.webp"
+  },
+  {
+    "id": "OP08-054",
+    "pack_id": "569108",
+    "name": "You Can't Take Our King This Early in the Game.",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-054.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-054.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 3 or less. Then, place the rest at the top or bottom of your deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-054.webp"
+  },
+  {
+    "id": "OP08-055",
+    "pack_id": "569108",
+    "name": "Phoenix Brand",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-055.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-055.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[Main] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Place up to 1 Character with a cost of 6 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-055.webp"
+  },
+  {
+    "id": "OP08-075",
+    "pack_id": "569108",
+    "name": "Candy Maiden",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-075.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-075.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 2 or less. Then, turn all of your Life cards face-down.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-075.webp"
+  },
+  {
+    "id": "OP08-076",
+    "pack_id": "569108",
+    "name": "It's to Die For...",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-076.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-076.webp"
+  },
+  {
+    "id": "OP08-077",
+    "pack_id": "569108",
+    "name": "Conquest of the Sea",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-077.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-077.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} or {Big Mom Pirates} type, K.O. up to 2 of your opponent's Characters with a cost of 6 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-077.webp"
+  },
+  {
+    "id": "OP08-094",
+    "pack_id": "569108",
+    "name": "Imperial Flame",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-094.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-094.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main]/[Counter] You may place 3 cards from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-094.webp"
+  },
+  {
+    "id": "OP08-095",
+    "pack_id": "569108",
+    "name": "Iron Body Fang Flash",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-095.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-095.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates",
+      "Former CP9"
+    ],
+    "effect": "[Main] If you have 10 or more cards in your trash, up to 1 of your Characters gains +2000 power until the end of your opponent's next turn.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-095.webp"
+  },
+  {
+    "id": "OP08-096",
+    "pack_id": "569108",
+    "name": "People's Dreams Don't Ever End!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-096.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-096.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Blackbeard Pirates"
+    ],
+    "effect": "[Counter] Trash 1 card from the top of your deck. If the trashed card has a cost of 6 or more, up to 1 of your Leader or Character cards gains +5000 power during this battle.",
+    "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-096.webp"
+  },
+  {
+    "id": "OP08-097",
+    "pack_id": "569108",
+    "name": "Heliceratops",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-097.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-097.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main] If your Leader has the {Animal Kingdom Pirates} type, give up to 1 of your opponent's Characters −2 cost during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-097.webp"
+  },
+  {
+    "id": "OP08-115",
+    "pack_id": "569108",
+    "name": "The Earth Will Not Lose!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-115.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-115.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island",
+      "Shandian Warrior"
+    ],
+    "effect": "[Counter] If your Leader has the {Shandian Warrior} type, up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, play up to 1 [Upper Yard] from your hand.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-115.webp"
+  },
+  {
+    "id": "OP08-116",
+    "pack_id": "569108",
+    "name": "Burn Bazooka",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-116.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-116.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island",
+      "Shandian Warrior"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, you may add 1 card from the top or bottom of your Life cards to your hand. If you do, add up to 1 {Shandian Warrior} type card from your hand to the top of your Life cards face-up.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-116.webp"
+  },
+  {
+    "id": "OP08-117",
+    "pack_id": "569108",
+    "name": "Burn Blade",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-117.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-117.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island",
+      "Shandian Warrior"
+    ],
+    "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "trigger": "[Trigger] You may add 1 card from the top of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-117.webp"
+  },
+  {
+    "id": "OP08-076_p1",
+    "pack_id": "569302",
+    "name": "It's to Die For...",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-076_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-076_p1.webp"
+  },
+  {
+    "id": "OP08-076_r1",
+    "pack_id": "569302",
+    "name": "It's to Die For...",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP08-076_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-076_r1.webp"
+  }
+]

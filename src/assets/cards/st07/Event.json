@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ST07-015",
+    "pack_id": "569007",
+    "name": "Soul Pocus",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST07-015.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-015.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] Your opponent chooses one:<br>- Trash 1 card from the top of your opponent's Life cards.<br>- Add 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST07-015.webp"
+  },
+  {
+    "id": "ST07-016",
+    "pack_id": "569007",
+    "name": "Power Mochi",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST07-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-016.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Counter] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card, look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST07-016.webp"
+  }
+]

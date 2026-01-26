@@ -1,0 +1,842 @@
+[
+  {
+    "id": "OP05-076_p1",
+    "pack_id": "569018",
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-076_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-076_p1.webp"
+  },
+  {
+    "id": "OP05-018",
+    "pack_id": "569105",
+    "name": "Emporio Energy Hormone",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, play up to 1 {Revolutionary Army} type Character card with 5000 power or less from your hand.",
+    "trigger": "[Trigger] Play up to 1 {Revolutionary Army} type Character card with 5000 power or less from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-018.webp"
+  },
+  {
+    "id": "OP05-019",
+    "pack_id": "569105",
+    "name": "Fire Fist",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-019.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-019.webp"
+  },
+  {
+    "id": "OP05-020",
+    "pack_id": "569105",
+    "name": "Four Thousand-Brick Fist",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-020.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-020.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Revolutionary Army"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +2000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-020.webp"
+  },
+  {
+    "id": "OP05-037",
+    "pack_id": "569105",
+    "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-037.webp"
+  },
+  {
+    "id": "OP05-038",
+    "pack_id": "569105",
+    "name": "Charlestone",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, you may trash 1 card from your hand. If you do, set up to 3 of your DON!! cards as active.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 3 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-038.webp"
+  },
+  {
+    "id": "OP05-039",
+    "pack_id": "569105",
+    "name": "Stick-Stickem Meteora",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-039.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-039.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-039.webp"
+  },
+  {
+    "id": "OP05-057",
+    "pack_id": "569105",
+    "name": "Hound Blaze",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-057.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-057.webp"
+  },
+  {
+    "id": "OP05-058",
+    "pack_id": "569105",
+    "name": "It's a Waste of Human Life!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-058.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-058.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Place all Characters with a cost of 3 or less at the bottom of the owner's deck. Then, you and your opponent trash cards from your hands until you each have 5 cards in your hands.",
+    "trigger": "[Trigger] Place all Characters with a cost of 2 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-058.webp"
+  },
+  {
+    "id": "OP05-059",
+    "pack_id": "569105",
+    "name": "Let Us Begin the World of Violence!!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-059.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-059.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main] If your Leader is multicolored, draw 1 card. Then, return up to 1 Character with a cost of 5 or less to the owner's hand.",
+    "trigger": "[Trigger] If your Leader is multicolored, draw 2 cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-059.webp"
+  },
+  {
+    "id": "OP05-076",
+    "pack_id": "569105",
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-076.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-076.webp"
+  },
+  {
+    "id": "OP05-077",
+    "pack_id": "569105",
+    "name": "Gamma Knife",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-077.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-077.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −5000 power during this turn.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-077.webp"
+  },
+  {
+    "id": "OP05-078",
+    "pack_id": "569105",
+    "name": "Punk Rotten",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-078.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-078.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kid Pirates"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your {Kid Pirates} type Leader or Character cards gains +5000 power during this turn.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-078.webp"
+  },
+  {
+    "id": "OP05-094",
+    "pack_id": "569105",
+    "name": "Haute Couture Patch★Work",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-094.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-094.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Tontattas",
+      "Dressrosa"
+    ],
+    "effect": "[Main] Give up to 1 of your opponent's Characters −3 cost during this turn. Then, up to 1 of your opponent's Characters with a cost of 0 will not become active in the next Refresh Phase.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-094.webp"
+  },
+  {
+    "id": "OP05-095",
+    "pack_id": "569105",
+    "name": "Dragon Claw",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-095.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-095.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 15 or more cards in your trash, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-095.webp"
+  },
+  {
+    "id": "OP05-096",
+    "pack_id": "569105",
+    "name": "I Bid 500 Million!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-096.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-096.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effect": "[Main] Choose one:<br>• K.O. up to 1 of your opponent's Characters with a cost of 1 or less.<br>• Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.<br>• Place up to 1 of your opponent's Characters with a cost of 1 or less at the top or bottom of their Life cards face-up.<br>Then, if you have a {Celestial Dragons} type Character, draw 1 card.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, or return it to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-096.webp"
+  },
+  {
+    "id": "OP05-114",
+    "pack_id": "569105",
+    "name": "El Thor",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-114.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-114.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has 2 or less Life cards, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-114.webp"
+  },
+  {
+    "id": "OP05-115",
+    "pack_id": "569105",
+    "name": "Two-Hundred Million Volts Amaru",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-115.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-115.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-115.webp"
+  },
+  {
+    "id": "OP05-116",
+    "pack_id": "569105",
+    "name": "Hino Bird Zap",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-116.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-116.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-116.webp"
+  },
+  {
+    "id": "OP05-057_p2",
+    "pack_id": "569301",
+    "name": "Hound Blaze",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-057_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-057_p2.webp"
+  },
+  {
+    "id": "OP05-057_p3",
+    "pack_id": "569301",
+    "name": "Hound Blaze",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-057_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-057_p3.webp"
+  },
+  {
+    "id": "OP05-057_p4",
+    "pack_id": "569301",
+    "name": "Hound Blaze",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-057_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-057_p4.webp"
+  },
+  {
+    "id": "OP05-057_r1",
+    "pack_id": "569301",
+    "name": "Hound Blaze",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-057_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-057_r1.webp"
+  },
+  {
+    "id": "OP05-114_p2",
+    "pack_id": "569301",
+    "name": "El Thor",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-114_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-114_p2.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has 2 or less Life cards, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-114_p2.webp"
+  },
+  {
+    "id": "OP05-114_p3",
+    "pack_id": "569301",
+    "name": "El Thor",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-114_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-114_p3.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has 2 or less Life cards, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-114_p3.webp"
+  },
+  {
+    "id": "OP05-114_r1",
+    "pack_id": "569301",
+    "name": "El Thor",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-114_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-114_r1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has 2 or less Life cards, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-114_r1.webp"
+  },
+  {
+    "id": "OP05-115_p2",
+    "pack_id": "569301",
+    "name": "Two-Hundred Million Volts Amaru",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-115_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-115_p2.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-115_p2.webp"
+  },
+  {
+    "id": "OP05-115_p3",
+    "pack_id": "569301",
+    "name": "Two-Hundred Million Volts Amaru",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-115_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-115_p3.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-115_p3.webp"
+  },
+  {
+    "id": "OP05-115_p4",
+    "pack_id": "569301",
+    "name": "Two-Hundred Million Volts Amaru",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-115_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-115_p4.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-115_p4.webp"
+  },
+  {
+    "id": "OP05-115_r1",
+    "pack_id": "569301",
+    "name": "Two-Hundred Million Volts Amaru",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-115_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-115_r1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sky Island"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-115_r1.webp"
+  },
+  {
+    "id": "OP05-037_r1",
+    "pack_id": "569302",
+    "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-037_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-037_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-037_r1.webp"
+  },
+  {
+    "id": "OP05-077_p1",
+    "pack_id": "569302",
+    "name": "Gamma Knife",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-077_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-077_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −5000 power during this turn.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-077_p1.webp"
+  },
+  {
+    "id": "OP05-077_r1",
+    "pack_id": "569302",
+    "name": "Gamma Knife",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-077_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-077_r1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −5000 power during this turn.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-077_r1.webp"
+  },
+  {
+    "id": "OP05-037_p1",
+    "pack_id": "569901",
+    "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-037_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-037_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-037_p1.webp"
+  },
+  {
+    "id": "OP05-037_p2",
+    "pack_id": "569901",
+    "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-037_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-037_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": null,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-037_p2.webp"
+  },
+  {
+    "id": "OP05-076_p2",
+    "pack_id": "569901",
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-076_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p2.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-076_p2.webp"
+  },
+  {
+    "id": "OP05-076_p3",
+    "pack_id": "569901",
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-076_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p3.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-076_p3.webp"
+  },
+  {
+    "id": "OP05-076_p4",
+    "pack_id": "569901",
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP05-076_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p4.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP05-076_p4.webp"
+  }
+]

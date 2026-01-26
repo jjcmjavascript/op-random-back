@@ -1,0 +1,61 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: op-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    # --bind_ip_all es vital para que acepte conexiones externas
+    command: ["--replSet", "rs0", "--bind_ip_all", "--port", "27017"]
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 5s
+
+  mongo-init:
+    image: mongo:7
+    container_name: op-mongo-init
+    restart: "no"
+    depends_on:
+      mongo:
+        condition: service_healthy
+    # Este script espera, inicia el RS y confirma que somos MASTER
+    command: >
+      mongosh --host mongo:27017 --eval 
+      '
+      try {
+        rs.status();
+        print("RS ya existe");
+      } catch (e) {
+        print("Iniciando RS...");
+        rs.initiate({ _id: "rs0", members: [{ _id: 0, host: "mongo:27017" }] });
+      }
+      '
+
+  api:
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: op-api
+    depends_on:
+      mongo:
+        condition: service_healthy
+      mongo-init:
+        condition: service_completed_successfully # Espera a que el script de init termine
+    environment:
+      # IMPORTANTE: directConnection=true fuerza la conexión a este nodo específico
+      DATABASE_URL: mongodb://mongo:27017/op?replicaSet=rs0&directConnection=true
+      NODE_ENV: development
+      PORT: ${PORT:-3000}
+    ports:
+      - "${PORT:-3000}:${PORT:-3000}"
+    volumes:
+      - ./src:/app/src
+
+volumes:
+  mongo_data:

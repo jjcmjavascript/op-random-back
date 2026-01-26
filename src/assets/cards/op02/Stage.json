@@ -1,0 +1,90 @@
+[
+  {
+    "id": "OP02-024",
+    "pack_id": "569102",
+    "name": "Moby Dick",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP02-024.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-024.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Your Turn] If you have 1 or less Life cards, your [Edward.Newgate] and all your Characters with a type including \"Whitebeard Pirates\" gain +2000 power.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP02-024.webp"
+  },
+  {
+    "id": "OP02-048",
+    "pack_id": "569102",
+    "name": "Land of Wano",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP02-048.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-048.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Activate: Main] You may trash 1 {Land of Wano} type card from your hand and rest this Stage: Set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP02-048.webp"
+  },
+  {
+    "id": "OP02-070",
+    "pack_id": "569102",
+    "name": "New Kama Land",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP02-070.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-070.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[Activate: Main] You may rest this Stage: If your Leader is [Emporio.Ivankov], draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP02-070.webp"
+  },
+  {
+    "id": "OP02-092",
+    "pack_id": "569102",
+    "name": "Impel Down",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP02-092.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-092.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP02-092.webp"
+  }
+]

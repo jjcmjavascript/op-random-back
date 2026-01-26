@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "ST01-002",
+    "pack_id": "569001",
+    "name": "Usopp",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-002.webp"
+  },
+  {
+    "id": "ST01-003",
+    "pack_id": "569001",
+    "name": "Karoo",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Animal",
+      "Alabasta"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-003.webp"
+  },
+  {
+    "id": "ST01-004",
+    "pack_id": "569001",
+    "name": "Sanji",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-004.webp"
+  },
+  {
+    "id": "ST01-005",
+    "pack_id": "569001",
+    "name": "Jinbe",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-005.webp"
+  },
+  {
+    "id": "ST01-006",
+    "pack_id": "569001",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006.webp"
+  },
+  {
+    "id": "ST01-007",
+    "pack_id": "569001",
+    "name": "Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-007.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-007.webp"
+  },
+  {
+    "id": "ST01-008",
+    "pack_id": "569001",
+    "name": "Nico Robin",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-008.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-008.webp"
+  },
+  {
+    "id": "ST01-009",
+    "pack_id": "569001",
+    "name": "Nefeltari Vivi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-009.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-009.webp"
+  },
+  {
+    "id": "ST01-010",
+    "pack_id": "569001",
+    "name": "Franky",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-010.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-010.webp"
+  },
+  {
+    "id": "ST01-011",
+    "pack_id": "569001",
+    "name": "Brook",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-011.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-011.webp"
+  },
+  {
+    "id": "ST01-012",
+    "pack_id": "569001",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012.webp"
+  },
+  {
+    "id": "ST01-013",
+    "pack_id": "569001",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-013.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character gains +1000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-013.webp"
+  },
+  {
+    "id": "ST01-012_p1",
+    "pack_id": "569103",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012_p1.webp"
+  },
+  {
+    "id": "ST01-012_p2",
+    "pack_id": "569105",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012_p2.webp"
+  },
+  {
+    "id": "ST01-012_p3",
+    "pack_id": "569105",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012_p3.webp"
+  },
+  {
+    "id": "ST01-007_p3",
+    "pack_id": "569106",
+    "name": "Nami",
+    "rarity": "TreasureRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-007_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-007_p3.webp"
+  },
+  {
+    "id": "ST01-006_p6",
+    "pack_id": "569301",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p6.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p6.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p6.webp"
+  },
+  {
+    "id": "ST01-006_p7",
+    "pack_id": "569301",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p7.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p7.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p7.webp"
+  },
+  {
+    "id": "ST01-006_p8",
+    "pack_id": "569301",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p8.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p8.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p8.webp"
+  },
+  {
+    "id": "ST01-006_r1",
+    "pack_id": "569301",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_r1.webp"
+  },
+  {
+    "id": "ST01-011_p4",
+    "pack_id": "569302",
+    "name": "Brook",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-011_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-011_p4.webp"
+  },
+  {
+    "id": "ST01-011_r1",
+    "pack_id": "569302",
+    "name": "Brook",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-011_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-011_r1.webp"
+  },
+  {
+    "id": "ST01-002_p1",
+    "pack_id": "569801",
+    "name": "Usopp",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-002_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-002_p1.webp"
+  },
+  {
+    "id": "ST01-002_p2",
+    "pack_id": "569801",
+    "name": "Usopp",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-002_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-002_p2.webp"
+  },
+  {
+    "id": "ST01-004_p2",
+    "pack_id": "569801",
+    "name": "Sanji",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-004_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-004_p2.webp"
+  },
+  {
+    "id": "ST01-005_p1",
+    "pack_id": "569801",
+    "name": "Jinbe",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-005_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-005_p1.webp"
+  },
+  {
+    "id": "ST01-005_p2",
+    "pack_id": "569801",
+    "name": "Jinbe",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-005_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-005_p2.webp"
+  },
+  {
+    "id": "ST01-006_p1",
+    "pack_id": "569801",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p1.webp"
+  },
+  {
+    "id": "ST01-006_p2",
+    "pack_id": "569801",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p2.webp"
+  },
+  {
+    "id": "ST01-006_p3",
+    "pack_id": "569801",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p3.webp"
+  },
+  {
+    "id": "ST01-006_p4",
+    "pack_id": "569801",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-006_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-006_p4.webp"
+  },
+  {
+    "id": "ST01-007_p1",
+    "pack_id": "569801",
+    "name": "Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-007_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-007_p1.webp"
+  },
+  {
+    "id": "ST01-008_p1",
+    "pack_id": "569801",
+    "name": "Nico Robin",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-008_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-008_p1.webp"
+  },
+  {
+    "id": "ST01-008_p2",
+    "pack_id": "569801",
+    "name": "Nico Robin",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-008_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-008_p2.webp"
+  },
+  {
+    "id": "ST01-010_p1",
+    "pack_id": "569801",
+    "name": "Franky",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-010_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-010_p1.webp"
+  },
+  {
+    "id": "ST01-010_p2",
+    "pack_id": "569801",
+    "name": "Franky",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-010_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-010_p2.webp"
+  },
+  {
+    "id": "ST01-011_p1",
+    "pack_id": "569801",
+    "name": "Brook",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-011_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-011_p1.webp"
+  },
+  {
+    "id": "ST01-011_p3",
+    "pack_id": "569801",
+    "name": "Brook",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-011_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-011_p3.webp"
+  },
+  {
+    "id": "ST01-013_p1",
+    "pack_id": "569801",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-013_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character gains +1000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-013_p1.webp"
+  },
+  {
+    "id": "ST01-013_p2",
+    "pack_id": "569801",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-013_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character gains +1000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-013_p2.webp"
+  },
+  {
+    "id": "ST01-004_p1",
+    "pack_id": "569901",
+    "name": "Sanji",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-004_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-004_p1.webp"
+  },
+  {
+    "id": "ST01-007_p2",
+    "pack_id": "569901",
+    "name": "Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-007_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-007_p2.webp"
+  },
+  {
+    "id": "ST01-007_p4",
+    "pack_id": "569901",
+    "name": "Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-007_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-007_p4.webp"
+  },
+  {
+    "id": "ST01-007_p5",
+    "pack_id": "569901",
+    "name": "Nami",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-007_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-007_p5.webp"
+  },
+  {
+    "id": "ST01-009_p1",
+    "pack_id": "569901",
+    "name": "Nefeltari Vivi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-009_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-009_p1.webp"
+  },
+  {
+    "id": "ST01-011_p2",
+    "pack_id": "569901",
+    "name": "Brook",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-011_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-011_p2.webp"
+  },
+  {
+    "id": "ST01-012_p4",
+    "pack_id": "569901",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012_p4.webp"
+  },
+  {
+    "id": "ST01-012_p5",
+    "pack_id": "569901",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p5.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012_p5.webp"
+  },
+  {
+    "id": "ST01-012_p6",
+    "pack_id": "569901",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST01-012_p6.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p6.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST01-012_p6.webp"
+  }
+]

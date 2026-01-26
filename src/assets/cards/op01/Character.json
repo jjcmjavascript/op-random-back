@@ -1,0 +1,4579 @@
+[
+  {
+    "id": "OP01-016_p3",
+    "pack_id": "569010",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p3.webp"
+  },
+  {
+    "id": "OP01-025_p2",
+    "pack_id": "569010",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-025_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-025_p2.webp"
+  },
+  {
+    "id": "OP01-073_r1",
+    "pack_id": "569017",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-073_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-073_r1.webp"
+  },
+  {
+    "id": "OP01-004",
+    "pack_id": "569101",
+    "name": "Usopp",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-004.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [Your Turn] [Once Per Turn] Draw 1 card when your opponent activates an Event.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-004.webp"
+  },
+  {
+    "id": "OP01-005",
+    "pack_id": "569101",
+    "name": "Uta",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-005.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[On Play] Add up to 1 red Character card other than [Uta] with a cost of 3 or less from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-005.webp"
+  },
+  {
+    "id": "OP01-006",
+    "pack_id": "569101",
+    "name": "Otama",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-006.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-006.webp"
+  },
+  {
+    "id": "OP01-007",
+    "pack_id": "569101",
+    "name": "Caribou",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-007.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-007.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Caribou Pirates"
+    ],
+    "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-007.webp"
+  },
+  {
+    "id": "OP01-008",
+    "pack_id": "569101",
+    "name": "Cavendish",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-008.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-008.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Beautiful Pirates"
+    ],
+    "effect": "[On Play] You may add 1 card from your Life area to your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-008.webp"
+  },
+  {
+    "id": "OP01-008_p1",
+    "pack_id": "569101",
+    "name": "Cavendish",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-008_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-008_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Beautiful Pirates"
+    ],
+    "effect": "[On Play] You may add 1 card from your Life area to your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-008_p1.webp"
+  },
+  {
+    "id": "OP01-009",
+    "pack_id": "569101",
+    "name": "Carrot",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-009.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-009.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Minks"
+    ],
+    "effect": "[Trigger] Play this card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-009.webp"
+  },
+  {
+    "id": "OP01-010",
+    "pack_id": "569101",
+    "name": "Komachiyo",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-010.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-010.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Animal",
+      "Land of Wano"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-010.webp"
+  },
+  {
+    "id": "OP01-011",
+    "pack_id": "569101",
+    "name": "Gordon",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-011.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-011.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[On Play] You may place 1 card from your hand at the bottom of your deck: Draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-011.webp"
+  },
+  {
+    "id": "OP01-012",
+    "pack_id": "569101",
+    "name": "Sai",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-012.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-012.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Happosui Army"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-012.webp"
+  },
+  {
+    "id": "OP01-013",
+    "pack_id": "569101",
+    "name": "Sanji",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-013.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-013.webp"
+  },
+  {
+    "id": "OP01-013_p1",
+    "pack_id": "569101",
+    "name": "Sanji",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-013_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-013_p1.webp"
+  },
+  {
+    "id": "OP01-014",
+    "pack_id": "569101",
+    "name": "Jinbe",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-014.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-014.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-014.webp"
+  },
+  {
+    "id": "OP01-015",
+    "pack_id": "569101",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-015.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-015.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 {Straw Hat Crew} type Character card other than [Tony Tony.Chopper] with a cost of 4 or less from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-015.webp"
+  },
+  {
+    "id": "OP01-016",
+    "pack_id": "569101",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016.webp"
+  },
+  {
+    "id": "OP01-016_p1",
+    "pack_id": "569101",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p1.webp"
+  },
+  {
+    "id": "OP01-017",
+    "pack_id": "569101",
+    "name": "Nico Robin",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-017.webp"
+  },
+  {
+    "id": "OP01-018",
+    "pack_id": "569101",
+    "name": "Hajrudin",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Giant",
+      "New Giant Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-018.webp"
+  },
+  {
+    "id": "OP01-019",
+    "pack_id": "569101",
+    "name": "Bartolomeo",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-019.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Barto Club"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x2] [Opponent's Turn] This Character gains +3000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-019.webp"
+  },
+  {
+    "id": "OP01-020",
+    "pack_id": "569101",
+    "name": "Hyogoro",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-020.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-020.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[Activate: Main] You may rest this Character: Up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-020.webp"
+  },
+  {
+    "id": "OP01-021",
+    "pack_id": "569101",
+    "name": "Franky",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-021.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-021.webp"
+  },
+  {
+    "id": "OP01-022",
+    "pack_id": "569101",
+    "name": "Brook",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-022.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-022.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Give up to 2 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-022.webp"
+  },
+  {
+    "id": "OP01-023",
+    "pack_id": "569101",
+    "name": "Marco",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-023.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-023.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-023.webp"
+  },
+  {
+    "id": "OP01-024",
+    "pack_id": "569101",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-024.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by ＜Strike＞ attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-024.webp"
+  },
+  {
+    "id": "OP01-024_p1",
+    "pack_id": "569101",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-024_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by ＜Strike＞  attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-024_p1.webp"
+  },
+  {
+    "id": "OP01-025",
+    "pack_id": "569101",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-025.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-025.webp"
+  },
+  {
+    "id": "OP01-025_p1",
+    "pack_id": "569101",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-025_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-025_p1.webp"
+  },
+  {
+    "id": "OP01-032",
+    "pack_id": "569101",
+    "name": "Ashura Doji",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-032.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-032.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x1] If your opponent has 2 or more rested Characters, this Character gains +2000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-032.webp"
+  },
+  {
+    "id": "OP01-033",
+    "pack_id": "569101",
+    "name": "Izo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-033.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-033.webp"
+  },
+  {
+    "id": "OP01-034",
+    "pack_id": "569101",
+    "name": "Inuarashi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-034.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-034.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-034.webp"
+  },
+  {
+    "id": "OP01-034_p1",
+    "pack_id": "569101",
+    "name": "Inuarashi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-034_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-034_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-034_p1.webp"
+  },
+  {
+    "id": "OP01-035",
+    "pack_id": "569101",
+    "name": "Okiku",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-035.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-035.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x1] [When Attacking] [Once Per Turn] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-035.webp"
+  },
+  {
+    "id": "OP01-036",
+    "pack_id": "569101",
+    "name": "Otsuru",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-036.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-036.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-036.webp"
+  },
+  {
+    "id": "OP01-037",
+    "pack_id": "569101",
+    "name": "Kawamatsu",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Fish-Man",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-037.webp"
+  },
+  {
+    "id": "OP01-038",
+    "pack_id": "569101",
+    "name": "Kanjuro",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.<br>[On K.O.] Your opponent chooses 1 card from your hand; trash that card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-038.webp"
+  },
+  {
+    "id": "OP01-039",
+    "pack_id": "569101",
+    "name": "Killer",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-039.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-039.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] If you have 3 or more Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-039.webp"
+  },
+  {
+    "id": "OP01-040",
+    "pack_id": "569101",
+    "name": "Kin'emon",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-040.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-040.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand.<br>[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-040.webp"
+  },
+  {
+    "id": "OP01-040_p1",
+    "pack_id": "569101",
+    "name": "Kin'emon",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-040_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-040_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand.<br>[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-040_p1.webp"
+  },
+  {
+    "id": "OP01-041",
+    "pack_id": "569101",
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-041.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-041.webp"
+  },
+  {
+    "id": "OP01-042",
+    "pack_id": "569101",
+    "name": "Komurasaki",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-042.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-042.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[On Play] ③ (You may rest the specified number of DON!! cards in your cost area.): If your Leader is [Kouzuki Oden], set up to 1 of your {Land of Wano} type Character cards with a cost of 3 or less as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-042.webp"
+  },
+  {
+    "id": "OP01-043",
+    "pack_id": "569101",
+    "name": "Shinobu",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-043.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-043.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-043.webp"
+  },
+  {
+    "id": "OP01-044",
+    "pack_id": "569101",
+    "name": "Shachi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-044.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-044.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you don't have [Penguin], play up to 1 [Penguin] from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-044.webp"
+  },
+  {
+    "id": "OP01-045",
+    "pack_id": "569101",
+    "name": "Jean Bart",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-045.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-045.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-045.webp"
+  },
+  {
+    "id": "OP01-046",
+    "pack_id": "569101",
+    "name": "Denjiro",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-046.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-046.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x1] [When Attacking] If your Leader is [Kouzuki Oden], set up to 2 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-046.webp"
+  },
+  {
+    "id": "OP01-047",
+    "pack_id": "569101",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-047.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-047.webp"
+  },
+  {
+    "id": "OP01-047_p1",
+    "pack_id": "569101",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-047_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-047_p1.webp"
+  },
+  {
+    "id": "OP01-048",
+    "pack_id": "569101",
+    "name": "Nekomamushi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-048.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-048.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-048.webp"
+  },
+  {
+    "id": "OP01-048_p1",
+    "pack_id": "569101",
+    "name": "Nekomamushi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-048_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-048_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-048_p1.webp"
+  },
+  {
+    "id": "OP01-049",
+    "pack_id": "569101",
+    "name": "Bepo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-049.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-049.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Minks",
+      "Heart Pirates"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Play up to 1 {Heart Pirates} type Character card other than [Bepo] with a cost of 4 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-049.webp"
+  },
+  {
+    "id": "OP01-050",
+    "pack_id": "569101",
+    "name": "Penguin",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-050.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-050.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you don't have [Shachi], play up to 1 [Shachi] from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-050.webp"
+  },
+  {
+    "id": "OP01-051",
+    "pack_id": "569101",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-051.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-051.webp"
+  },
+  {
+    "id": "OP01-051_p1",
+    "pack_id": "569101",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-051_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-051_p1.webp"
+  },
+  {
+    "id": "OP01-052",
+    "pack_id": "569101",
+    "name": "Raizo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-052.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-052.webp"
+  },
+  {
+    "id": "OP01-053",
+    "pack_id": "569101",
+    "name": "Wire",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-053.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-053.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Kid Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-053.webp"
+  },
+  {
+    "id": "OP01-054",
+    "pack_id": "569101",
+    "name": "X.Drake",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-054.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-054.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Navy",
+      "Drake Pirates"
+    ],
+    "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-054.webp"
+  },
+  {
+    "id": "OP01-063",
+    "pack_id": "569101",
+    "name": "Arlong",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-063.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-063.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Fish-Man",
+      "Arlong Pirates"
+    ],
+    "effect": "[DON!! x1] [Activate: Main] You may rest this Character: Choose 1 card from your opponent's hand; your opponent reveals that card. If the revealed card is an Event, place up to 1 card from your opponent's Life area at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-063.webp"
+  },
+  {
+    "id": "OP01-064",
+    "pack_id": "569101",
+    "name": "Alvida",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-064.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-064.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Buggy Pirates"
+    ],
+    "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-064.webp"
+  },
+  {
+    "id": "OP01-064_p1",
+    "pack_id": "569101",
+    "name": "Alvida",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-064_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-064_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Buggy Pirates"
+    ],
+    "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-064_p1.webp"
+  },
+  {
+    "id": "OP01-065",
+    "pack_id": "569101",
+    "name": "Vergo",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-065.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-065.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "types": [
+      "Navy",
+      "Donquixote Pirates",
+      "Punk Hazard"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-065.webp"
+  },
+  {
+    "id": "OP01-066",
+    "pack_id": "569101",
+    "name": "Krieg",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-066.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-066.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Krieg Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-066.webp"
+  },
+  {
+    "id": "OP01-067",
+    "pack_id": "569101",
+    "name": "Crocodile",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-067.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-067.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[DON!! x1] Give blue Events in your hand −1 cost.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-067.webp"
+  },
+  {
+    "id": "OP01-067_p1",
+    "pack_id": "569101",
+    "name": "Crocodile",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-067_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-067_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[DON!! x1] Give blue Events in your hand −1 cost.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-067_p1.webp"
+  },
+  {
+    "id": "OP01-068",
+    "pack_id": "569101",
+    "name": "Gecko Moria",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-068.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-068.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Your Turn] This Character gains [Double Attack] if you have 5 or more cards in your hand.<br>(This card deals 2 damage.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-068.webp"
+  },
+  {
+    "id": "OP01-069",
+    "pack_id": "569101",
+    "name": "Caesar Clown",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-069.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-069.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Scientist",
+      "Punk Hazard"
+    ],
+    "effect": "[On K.O.] Play up to 1 [Smiley] from your deck, then shuffle your deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-069.webp"
+  },
+  {
+    "id": "OP01-070",
+    "pack_id": "569101",
+    "name": "Dracule Mihawk",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-070.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-070.webp"
+  },
+  {
+    "id": "OP01-070_p1",
+    "pack_id": "569101",
+    "name": "Dracule Mihawk",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-070_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-070_p1.webp"
+  },
+  {
+    "id": "OP01-071",
+    "pack_id": "569101",
+    "name": "Jinbe",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-071.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-071.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 2000,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-071.webp"
+  },
+  {
+    "id": "OP01-072",
+    "pack_id": "569101",
+    "name": "Smiley",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-072.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-072.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Biological Weapon",
+      "Punk Hazard"
+    ],
+    "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for every card in your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-072.webp"
+  },
+  {
+    "id": "OP01-073",
+    "pack_id": "569101",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-073.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-073.webp"
+  },
+  {
+    "id": "OP01-073_p1",
+    "pack_id": "569101",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-073_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-073_p1.webp"
+  },
+  {
+    "id": "OP01-074",
+    "pack_id": "569101",
+    "name": "Bartholomew Kuma",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-074.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-074.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Revolutionary Army"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Play up to 1 [Pacifista] with a cost of 4 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-074.webp"
+  },
+  {
+    "id": "OP01-075",
+    "pack_id": "569101",
+    "name": "Pacifista",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-075.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-075.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Biological Weapon",
+      "Navy"
+    ],
+    "effect": "Under the rules of this game, you may have any number of this card in your deck.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-075.webp"
+  },
+  {
+    "id": "OP01-076",
+    "pack_id": "569101",
+    "name": "Bellamy",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-076.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-076.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-076.webp"
+  },
+  {
+    "id": "OP01-077",
+    "pack_id": "569101",
+    "name": "Perona",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-077.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-077.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-077.webp"
+  },
+  {
+    "id": "OP01-077_p1",
+    "pack_id": "569101",
+    "name": "Perona",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-077_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-077_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-077_p1.webp"
+  },
+  {
+    "id": "OP01-078",
+    "pack_id": "569101",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-078.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-078.webp"
+  },
+  {
+    "id": "OP01-078_p1",
+    "pack_id": "569101",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-078_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-078_p1.webp"
+  },
+  {
+    "id": "OP01-079",
+    "pack_id": "569101",
+    "name": "Ms. All Sunday",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-079.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-079.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader has the {Baroque Works} type, add up to 1 Event from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-079.webp"
+  },
+  {
+    "id": "OP01-080",
+    "pack_id": "569101",
+    "name": "Miss Doublefinger(Zala)",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-080.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-080.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On K.O.] Draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-080.webp"
+  },
+  {
+    "id": "OP01-081",
+    "pack_id": "569101",
+    "name": "Mocha",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-081.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-081.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Punk Hazard"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-081.webp"
+  },
+  {
+    "id": "OP01-082",
+    "pack_id": "569101",
+    "name": "Monet",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-082.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-082.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Donquixote Pirates",
+      "Punk Hazard"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-082.webp"
+  },
+  {
+    "id": "OP01-083",
+    "pack_id": "569101",
+    "name": "Mr.1(Daz.Bonez)",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-083.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-083.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[DON!! x1] [Your Turn] If your Leader has the {Baroque Works} type, this Character gains +1000 power for every 2 Events in your trash.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-083.webp"
+  },
+  {
+    "id": "OP01-084",
+    "pack_id": "569101",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-084.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-084.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works} type Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-084.webp"
+  },
+  {
+    "id": "OP01-085",
+    "pack_id": "569101",
+    "name": "Mr.3(Galdino)",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-085.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-085.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On Play] If your Leader has the {Baroque Works} type, select up to 1 of your opponent's Characters with a cost of 4 or less. The selected Character cannot attack until the end of your opponent's next turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-085.webp"
+  },
+  {
+    "id": "OP01-092",
+    "pack_id": "569101",
+    "name": "Urashima",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-092.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-092.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 9000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-092.webp"
+  },
+  {
+    "id": "OP01-093",
+    "pack_id": "569101",
+    "name": "Ulti",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-093.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-093.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] ① (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-093.webp"
+  },
+  {
+    "id": "OP01-093_p1",
+    "pack_id": "569101",
+    "name": "Ulti",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-093_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-093_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] ① (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-093_p1.webp"
+  },
+  {
+    "id": "OP01-094",
+    "pack_id": "569101",
+    "name": "Kaido",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-094.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-094.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} type, K.O. all Characters other than this Character.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-094.webp"
+  },
+  {
+    "id": "OP01-094_p1",
+    "pack_id": "569101",
+    "name": "Kaido",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-094_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-094_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} type, K.O. all Characters other than this Character.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-094_p1.webp"
+  },
+  {
+    "id": "OP01-095",
+    "pack_id": "569101",
+    "name": "Kyoshirou",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-095.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-095.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Draw 1 card if you have 8 or more DON!! cards on your field.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-095.webp"
+  },
+  {
+    "id": "OP01-096",
+    "pack_id": "569101",
+    "name": "King",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-096.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-096.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less and up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-096.webp"
+  },
+  {
+    "id": "OP01-096_p1",
+    "pack_id": "569101",
+    "name": "King",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-096_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-096_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less and up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-096_p1.webp"
+  },
+  {
+    "id": "OP01-097",
+    "pack_id": "569101",
+    "name": "Queen",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-097.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-097.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-097.webp"
+  },
+  {
+    "id": "OP01-097_p1",
+    "pack_id": "569101",
+    "name": "Queen",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-097_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-097_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-097_p1.webp"
+  },
+  {
+    "id": "OP01-098",
+    "pack_id": "569101",
+    "name": "Kurozumi Orochi",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-098.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-098.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Kurozumi Clan"
+    ],
+    "effect": "[On Play] Reveal up to 1 [Artificial Devil Fruit SMILE] from your deck and add it to your hand. Then, shuffle your deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-098.webp"
+  },
+  {
+    "id": "OP01-099",
+    "pack_id": "569101",
+    "name": "Kurozumi Semimaru",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-099.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-099.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kurozumi Clan"
+    ],
+    "effect": "{Kurozumi Clan} type Characters other than your [Kurozumi Semimaru] cannot be K.O.'d in battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-099.webp"
+  },
+  {
+    "id": "OP01-100",
+    "pack_id": "569101",
+    "name": "Kurozumi Higurashi",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-100.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-100.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kurozumi Clan"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-100.webp"
+  },
+  {
+    "id": "OP01-101",
+    "pack_id": "569101",
+    "name": "Sasaki",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-101.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-101.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-101.webp"
+  },
+  {
+    "id": "OP01-102",
+    "pack_id": "569101",
+    "name": "Jack",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-102.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-102.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-102.webp"
+  },
+  {
+    "id": "OP01-102_p1",
+    "pack_id": "569101",
+    "name": "Jack",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-102_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-102_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-102_p1.webp"
+  },
+  {
+    "id": "OP01-103",
+    "pack_id": "569101",
+    "name": "Scratchmen Apoo",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-103.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-103.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates",
+      "On-Air Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-103.webp"
+  },
+  {
+    "id": "OP01-104",
+    "pack_id": "569101",
+    "name": "Speed",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-104.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-104.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-104.webp"
+  },
+  {
+    "id": "OP01-105",
+    "pack_id": "569101",
+    "name": "Bao Huang",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-105.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-105.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "[On Play] Choose 2 cards from your opponent's hand; your opponent reveals those cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-105.webp"
+  },
+  {
+    "id": "OP01-106",
+    "pack_id": "569101",
+    "name": "Basil Hawkins",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-106.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-106.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates",
+      "Hawkins Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-106.webp"
+  },
+  {
+    "id": "OP01-107",
+    "pack_id": "569101",
+    "name": "Babanuki",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-107.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-107.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-107.webp"
+  },
+  {
+    "id": "OP01-108",
+    "pack_id": "569101",
+    "name": "Hitokiri Kamazo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-108.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-108.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Kid Pirates",
+      "SMILE"
+    ],
+    "effect": "[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-108.webp"
+  },
+  {
+    "id": "OP01-109",
+    "pack_id": "569101",
+    "name": "Who's.Who",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-109.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-109.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[DON!! x1] [Your Turn] If you have 8 or more DON!! cards on your field, this Character gains +1000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-109.webp"
+  },
+  {
+    "id": "OP01-109_p1",
+    "pack_id": "569101",
+    "name": "Who's.Who",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-109_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-109_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[DON!! x1] [Your Turn] If you have 8 or more DON!! cards on your field, this Character gains +1000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-109_p1.webp"
+  },
+  {
+    "id": "OP01-110",
+    "pack_id": "569101",
+    "name": "Fukurokuju",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-110.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-110.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-110.webp"
+  },
+  {
+    "id": "OP01-111",
+    "pack_id": "569101",
+    "name": "Black Maria",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-111.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-111.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +1000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-111.webp"
+  },
+  {
+    "id": "OP01-112",
+    "pack_id": "569101",
+    "name": "Page One",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-112.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-112.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character can also attack your opponent's active Characters during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-112.webp"
+  },
+  {
+    "id": "OP01-113",
+    "pack_id": "569101",
+    "name": "Holedem",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-113.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-113.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-113.webp"
+  },
+  {
+    "id": "OP01-114",
+    "pack_id": "569101",
+    "name": "X.Drake",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-114.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-114.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "Navy",
+      "Drake Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-114.webp"
+  },
+  {
+    "id": "OP01-120",
+    "pack_id": "569101",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-120.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-120.webp"
+  },
+  {
+    "id": "OP01-120_p1",
+    "pack_id": "569101",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-120_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-120_p1.webp"
+  },
+  {
+    "id": "OP01-120_p2",
+    "pack_id": "569101",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-120_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-120_p2.webp"
+  },
+  {
+    "id": "OP01-121",
+    "pack_id": "569101",
+    "name": "Yamato",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-121.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-121.webp"
+  },
+  {
+    "id": "OP01-121_p1",
+    "pack_id": "569101",
+    "name": "Yamato",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-121_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-121_p1.webp"
+  },
+  {
+    "id": "OP01-051_p2",
+    "pack_id": "569103",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-051_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-051_p2.webp"
+  },
+  {
+    "id": "OP01-047_p2",
+    "pack_id": "569104",
+    "name": "Trafalgar Law",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-047_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-047_p2.webp"
+  },
+  {
+    "id": "OP01-078_p2",
+    "pack_id": "569104",
+    "name": "Boa Hancock",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-078_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-078_p2.webp"
+  },
+  {
+    "id": "OP01-016_p4",
+    "pack_id": "569105",
+    "name": "Nami",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p4.webp"
+  },
+  {
+    "id": "OP01-121_p2",
+    "pack_id": "569105",
+    "name": "Yamato",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-121_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-121_p2.webp"
+  },
+  {
+    "id": "OP01-035_p2",
+    "pack_id": "569107",
+    "name": "Okiku",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-035_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-035_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x1] [When Attacking] [Once Per Turn] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-035_p2.webp"
+  },
+  {
+    "id": "OP01-073_p2",
+    "pack_id": "569107",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-073_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-073_p2.webp"
+  },
+  {
+    "id": "OP01-006_p3",
+    "pack_id": "569301",
+    "name": "Otama",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-006_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-006_p3.webp"
+  },
+  {
+    "id": "OP01-006_p4",
+    "pack_id": "569301",
+    "name": "Otama",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-006_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-006_p4.webp"
+  },
+  {
+    "id": "OP01-006_p5",
+    "pack_id": "569301",
+    "name": "Otama",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-006_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p5.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-006_p5.webp"
+  },
+  {
+    "id": "OP01-006_r1",
+    "pack_id": "569301",
+    "name": "Otama",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-006_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-006_r1.webp"
+  },
+  {
+    "id": "OP01-016_p8",
+    "pack_id": "569301",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p8.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p8.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p8.webp"
+  },
+  {
+    "id": "OP01-024_p3",
+    "pack_id": "569301",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-024_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-024_p3.webp"
+  },
+  {
+    "id": "OP01-024_r1",
+    "pack_id": "569301",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-024_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-024_r1.webp"
+  },
+  {
+    "id": "OP01-033_p3",
+    "pack_id": "569301",
+    "name": "Izo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-033_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p3.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-033_p3.webp"
+  },
+  {
+    "id": "OP01-033_p4",
+    "pack_id": "569301",
+    "name": "Izo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-033_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p4.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-033_p4.webp"
+  },
+  {
+    "id": "OP01-033_p5",
+    "pack_id": "569301",
+    "name": "Izo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-033_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p5.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-033_p5.webp"
+  },
+  {
+    "id": "OP01-033_r1",
+    "pack_id": "569301",
+    "name": "Izo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-033_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-033_r1.webp"
+  },
+  {
+    "id": "OP01-041_p3",
+    "pack_id": "569301",
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-041_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p3.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-041_p3.webp"
+  },
+  {
+    "id": "OP01-041_p4",
+    "pack_id": "569301",
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-041_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p4.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-041_p4.webp"
+  },
+  {
+    "id": "OP01-041_p5",
+    "pack_id": "569301",
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-041_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p5.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-041_p5.webp"
+  },
+  {
+    "id": "OP01-041_r1",
+    "pack_id": "569301",
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-041_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-041_r1.webp"
+  },
+  {
+    "id": "OP01-047_p4",
+    "pack_id": "569301",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-047_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p4.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-047_p4.webp"
+  },
+  {
+    "id": "OP01-047_r1",
+    "pack_id": "569301",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-047_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-047_r1.webp"
+  },
+  {
+    "id": "OP01-051_p4",
+    "pack_id": "569301",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-051_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p4.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-051_p4.webp"
+  },
+  {
+    "id": "OP01-051_r1",
+    "pack_id": "569301",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-051_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-051_r1.webp"
+  },
+  {
+    "id": "OP01-052_p3",
+    "pack_id": "569301",
+    "name": "Raizo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-052_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p3.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-052_p3.webp"
+  },
+  {
+    "id": "OP01-052_p4",
+    "pack_id": "569301",
+    "name": "Raizo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-052_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p4.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-052_p4.webp"
+  },
+  {
+    "id": "OP01-052_r1",
+    "pack_id": "569301",
+    "name": "Raizo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-052_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-052_r1.webp"
+  },
+  {
+    "id": "OP01-070_p4",
+    "pack_id": "569301",
+    "name": "Dracule Mihawk",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-070_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-070_p4.webp"
+  },
+  {
+    "id": "OP01-070_r1",
+    "pack_id": "569301",
+    "name": "Dracule Mihawk",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-070_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-070_r1.webp"
+  },
+  {
+    "id": "OP01-078_p4",
+    "pack_id": "569301",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-078_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-078_p4.webp"
+  },
+  {
+    "id": "OP01-078_r1",
+    "pack_id": "569301",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-078_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-078_r1.webp"
+  },
+  {
+    "id": "OP01-120_p5",
+    "pack_id": "569301",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-120_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p5.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-120_p5.webp"
+  },
+  {
+    "id": "OP01-120_r1",
+    "pack_id": "569301",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-120_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_r1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-120_r1.webp"
+  },
+  {
+    "id": "OP01-120_r2",
+    "pack_id": "569301",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-120_r2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_r2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-120_r2.webp"
+  },
+  {
+    "id": "OP01-121_p4",
+    "pack_id": "569301",
+    "name": "Yamato",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-121_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p4.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-121_p4.webp"
+  },
+  {
+    "id": "OP01-121_r1",
+    "pack_id": "569301",
+    "name": "Yamato",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-121_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-121_r1.webp"
+  },
+  {
+    "id": "OP01-039_p1",
+    "pack_id": "569302",
+    "name": "Killer",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-039_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-039_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] If you have 3 or more Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-039_p1.webp"
+  },
+  {
+    "id": "OP01-039_r1",
+    "pack_id": "569302",
+    "name": "Killer",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-039_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-039_r1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] If you have 3 or more Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-039_r1.webp"
+  },
+  {
+    "id": "OP01-004_p1",
+    "pack_id": "569801",
+    "name": "Usopp",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-004_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-004_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [Your Turn] [Once Per Turn] Draw 1 card when your opponent activates an Event.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-004_p1.webp"
+  },
+  {
+    "id": "OP01-005_p1",
+    "pack_id": "569801",
+    "name": "Uta",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-005_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-005_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[On Play] Add up to 1 red Character card other than [Uta] with a cost of 3 or less from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-005_p1.webp"
+  },
+  {
+    "id": "OP01-005_p2",
+    "pack_id": "569801",
+    "name": "Uta",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-005_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-005_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[On Play] Add up to 1 red Character card other than [Uta] with a cost of 3 or less from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-005_p2.webp"
+  },
+  {
+    "id": "OP01-006_p1",
+    "pack_id": "569801",
+    "name": "Otama",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-006_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-006_p1.webp"
+  },
+  {
+    "id": "OP01-013_p2",
+    "pack_id": "569801",
+    "name": "Sanji",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-013_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-013_p2.webp"
+  },
+  {
+    "id": "OP01-013_p3",
+    "pack_id": "569801",
+    "name": "Sanji",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-013_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-013_p3.webp"
+  },
+  {
+    "id": "OP01-013_p4",
+    "pack_id": "569801",
+    "name": "Sanji",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-013_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013_p4.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-013_p4.webp"
+  },
+  {
+    "id": "OP01-014_p1",
+    "pack_id": "569801",
+    "name": "Jinbe",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-014_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-014_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-014_p1.webp"
+  },
+  {
+    "id": "OP01-016_p2",
+    "pack_id": "569801",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p2.webp"
+  },
+  {
+    "id": "OP01-016_p5",
+    "pack_id": "569801",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p5.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p5.webp"
+  },
+  {
+    "id": "OP01-016_p7",
+    "pack_id": "569801",
+    "name": "Nami",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p7.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p7.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-016_p7.webp"
+  },
+  {
+    "id": "OP01-017_p1",
+    "pack_id": "569801",
+    "name": "Nico Robin",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-017_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-017_p1.webp"
+  },
+  {
+    "id": "OP01-017_p2",
+    "pack_id": "569801",
+    "name": "Nico Robin",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-017_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-017_p2.webp"
+  },
+  {
+    "id": "OP01-021_p1",
+    "pack_id": "569801",
+    "name": "Franky",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-021_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-021_p1.webp"
+  },
+  {
+    "id": "OP01-021_p3",
+    "pack_id": "569801",
+    "name": "Franky",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-021_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-021_p3.webp"
+  },
+  {
+    "id": "OP01-022_p1",
+    "pack_id": "569801",
+    "name": "Brook",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-022_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-022_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Give up to 2 of your opponent's Characters －2000 power during this turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-022_p1.webp"
+  },
+  {
+    "id": "OP01-025_p3",
+    "pack_id": "569801",
+    "name": "Roronoa Zoro",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-025_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p3.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-025_p3.webp"
+  },
+  {
+    "id": "OP01-015_p1",
+    "pack_id": "569901",
+    "name": "Tony Tony.Chopper",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-015_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-015_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 {Straw Hat Crew} type Character card other than [Tony Tony.Chopper] with a cost of 4 or less from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-015_p1.webp"
+  },
+  {
+    "id": "OP01-021_p2",
+    "pack_id": "569901",
+    "name": "Franky",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-021_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p2.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 4000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-021_p2.webp"
+  },
+  {
+    "id": "OP01-033_p1",
+    "pack_id": "569901",
+    "name": "Izo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-033_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-033_p1.webp"
+  },
+  {
+    "id": "OP01-035_p1",
+    "pack_id": "569901",
+    "name": "Okiku",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-035_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-035_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[DON!! x1] [When Attacking] [Once Per Turn] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-035_p1.webp"
+  },
+  {
+    "id": "OP01-041_p1",
+    "pack_id": "569901",
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-041_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-041_p1.webp"
+  },
+  {
+    "id": "OP01-052_p1",
+    "pack_id": "569901",
+    "name": "Raizo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-052_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-052_p1.webp"
+  },
+  {
+    "id": "OP01-070_p2",
+    "pack_id": "569901",
+    "name": "Dracule Mihawk",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-070_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-070_p2.webp"
+  },
+  {
+    "id": "OP01-101_p1",
+    "pack_id": "569901",
+    "name": "Sasaki",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-101_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-101_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP01-101_p1.webp"
+  }
+]

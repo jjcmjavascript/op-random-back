@@ -1,0 +1,477 @@
+[
+  {
+    "id": "OP11-018",
+    "pack_id": "569111",
+    "name": "Honesty Impact",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-018.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effect": "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-018.webp"
+  },
+  {
+    "id": "OP11-018_p1",
+    "pack_id": "569111",
+    "name": "Honesty Impact",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-018_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-018_p1.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effect": "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-018_p1.webp"
+  },
+  {
+    "id": "OP11-019",
+    "pack_id": "569111",
+    "name": "Glorp Web!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-019.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has a Character with 6000 power or more, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-019.webp"
+  },
+  {
+    "id": "OP11-020",
+    "pack_id": "569111",
+    "name": "X Calibur",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-020.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-020.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy",
+      "SWORD",
+      "Drake Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has a Character with 6000 power or more, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-020.webp"
+  },
+  {
+    "id": "OP11-037",
+    "pack_id": "569111",
+    "name": "Ancient Weapon Poseidon",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-037.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-037.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Fish-Man Island"
+    ],
+    "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Neptunian} or {Fish-Man Island} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-037.webp"
+  },
+  {
+    "id": "OP11-038",
+    "pack_id": "569111",
+    "name": "Gum-Gum Elephant Gatling",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-038.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-038.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Characters with a cost of 5 or less.<br>[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-038.webp"
+  },
+  {
+    "id": "OP11-039",
+    "pack_id": "569111",
+    "name": "Vagabond Drill",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-039.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-039.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Fish-Man",
+      "Fish-Man Island",
+      "The Sun Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards gains +3000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-039.webp"
+  },
+  {
+    "id": "OP11-059",
+    "pack_id": "569111",
+    "name": "Gum-Gum King Cobra",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-059.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-059.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 4 or less cards in your hand, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-059.webp"
+  },
+  {
+    "id": "OP11-060",
+    "pack_id": "569111",
+    "name": "Let's Crash This Wedding!!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-060.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-060.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is multicolored, look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Let's Crash This Wedding!!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-060.webp"
+  },
+  {
+    "id": "OP11-061",
+    "pack_id": "569111",
+    "name": "Gum-Gum Jet Culverin",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-061.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-061.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Place up to 1 of your opponent's Characters with a base cost of 4 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-061.webp"
+  },
+  {
+    "id": "OP11-079",
+    "pack_id": "569111",
+    "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-079.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-079.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Counter] Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, up to 1 of your Leader or Character cards gains +5000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-079.webp"
+  },
+  {
+    "id": "OP11-080",
+    "pack_id": "569111",
+    "name": "Gear Two",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-080.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-080.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader's colors include blue, add up to 1 DON!! card from your DON!! deck and rest it.<br>[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-080.webp"
+  },
+  {
+    "id": "OP11-080_p1",
+    "pack_id": "569111",
+    "name": "Gear Two",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-080_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-080_p1.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader's colors include blue, add up to 1 DON!! card from your DON!! deck and rest it.<br>[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-080_p1.webp"
+  },
+  {
+    "id": "OP11-081",
+    "pack_id": "569111",
+    "name": "Cognac Mama-Mash",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-081.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-081.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Main] Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, K.O. up to 1 of your opponent's Characters with a base cost of 8 or less.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-081.webp"
+  },
+  {
+    "id": "OP11-097",
+    "pack_id": "569111",
+    "name": "After All These Years I'm Losing My Edge!!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-097.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-097.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, if you have 10 or more cards in your trash, add up to 1 black Character card with a cost of 3 or less from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-097.webp"
+  },
+  {
+    "id": "OP11-098",
+    "pack_id": "569111",
+    "name": "Blue Hole",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-098.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-098.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] You may trash 3 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-098.webp"
+  },
+  {
+    "id": "OP11-099",
+    "pack_id": "569111",
+    "name": "I'm Gonna Be a Navy Officer!!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-099.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-099.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "East Blue",
+      "Navy"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [I'm Gonna Be a Navy Officer!!!] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-099.webp"
+  },
+  {
+    "id": "OP11-114",
+    "pack_id": "569111",
+    "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-114.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-114.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 3 of your DON!! cards: If you and your opponent have a total of 5 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.<br>[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-114.webp"
+  },
+  {
+    "id": "OP11-114_p1",
+    "pack_id": "569111",
+    "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-114_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-114_p1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 3 of your DON!! cards: If you and your opponent have a total of 5 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.<br>[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-114_p1.webp"
+  },
+  {
+    "id": "OP11-115",
+    "pack_id": "569111",
+    "name": "You're Just Not My Type!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-115.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-115.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "effect": "[Counter] If your Leader is [Shirahoshi], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-115.webp"
+  },
+  {
+    "id": "OP11-116",
+    "pack_id": "569111",
+    "name": "Merman Combat Ultramarine",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP11-116.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-116.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "effect": "[Main] Add up to 1 Character with a cost of 6 or less to the top or bottom of the owner's Life cards face-up.",
+    "trigger": "[Trigger] Add up to 1 of your opponent's Characters with a cost of 4 or less to the top or bottom of the owner's Life cards face-up.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP11-116.webp"
+  }
+]

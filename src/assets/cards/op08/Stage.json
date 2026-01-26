@@ -1,0 +1,68 @@
+[
+  {
+    "id": "OP08-020",
+    "pack_id": "569108",
+    "name": "Drum Kingdom",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP08-020.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-020.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Drum Kingdom"
+    ],
+    "effect": "[Opponent's Turn] All of your {Drum Kingdom} type Characters gain +1000 power.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-020.webp"
+  },
+  {
+    "id": "OP08-039",
+    "pack_id": "569108",
+    "name": "Zou",
+    "rarity": "Rare",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP08-039.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-039.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Animal"
+    ],
+    "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active.<br>[End of Your Turn] Set up to 1 of your {Minks} type Characters as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-039.webp"
+  },
+  {
+    "id": "OP08-056",
+    "pack_id": "569108",
+    "name": "Moby Dick",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP08-056.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-056.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Your Turn] [Once Per Turn] When your Character with a type including \"Whitebeard Pirates\" is removed from the field by an effect, draw 1 card. Then, place 1 card from your hand at the top or bottom of your deck.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP08-056.webp"
+  }
+]

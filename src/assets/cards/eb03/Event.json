@@ -1,0 +1,136 @@
+[
+  {
+    "id": "EB03-011",
+    "pack_id": "556203",
+    "name": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/EB03-011.png?251219",
+    "img_full_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-011.png?251219",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[Counter] If your Leader is [Nefeltari Vivi], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB03-011.webp"
+  },
+  {
+    "id": "EB03-020",
+    "pack_id": "556203",
+    "name": "There You Are, Sore Loser!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/EB03-020.png?251219",
+    "img_full_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-020.png?251219",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or more {FILM} type Characters, that card gains an additional +2000 power during this battle.",
+    "trigger": "[Trigger] Set up to 1 of your Characters as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB03-020.webp"
+  },
+  {
+    "id": "EB03-029",
+    "pack_id": "556203",
+    "name": "Insolent Fool!! Stand Down!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/EB03-029.png?251219",
+    "img_full_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-029.png?251219",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Main] You may rest 4 of your DON!! cards: If your Leader is [Boa Hancock], play up to 1 {Amazon Lily} or {Kuja Pirates} type Character card with a cost of 6 or less from your hand.<br>[Counter] Up to 1 of your [Boa Hancock] cards gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB03-029.webp"
+  },
+  {
+    "id": "EB03-038",
+    "pack_id": "556203",
+    "name": "Thanks for the Treat. ♡",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/EB03-038.png?251219",
+    "img_full_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-038.png?251219",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "effect": "[Main] You may rest 1 of your DON!! cards: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field and you only have Characters with a type including \"GERMA\", add up to 2 DON!! cards from your DON!! deck and rest them.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB03-038.webp"
+  },
+  {
+    "id": "EB03-049",
+    "pack_id": "556203",
+    "name": "I Knew You People Were Behind This.",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/EB03-049.png?251219",
+    "img_full_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-049.png?251219",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Main] You may rest 7 of your DON!! cards: If your Leader is [Perona], play up to 1 {Thriller Bark Pirates} type Character card with a cost of 6 or less and up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your hand or trash.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB03-049.webp"
+  },
+  {
+    "id": "EB03-060",
+    "pack_id": "556203",
+    "name": "Will You Be My Servant?",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/EB03-060.png?251219",
+    "img_full_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-060.png?251219",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is [Nami], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 to 8 and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/EB03-060.webp"
+  }
+]

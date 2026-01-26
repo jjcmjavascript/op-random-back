@@ -1,0 +1,893 @@
+[
+  {
+    "id": "ST03-002",
+    "pack_id": "569003",
+    "name": "Edward Weevil",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-002.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-002.webp"
+  },
+  {
+    "id": "ST03-003",
+    "pack_id": "569003",
+    "name": "Crocodile",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-003.webp"
+  },
+  {
+    "id": "ST03-004",
+    "pack_id": "569003",
+    "name": "Gecko Moria",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-004.webp"
+  },
+  {
+    "id": "ST03-005",
+    "pack_id": "569003",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-005.webp"
+  },
+  {
+    "id": "ST03-006",
+    "pack_id": "569003",
+    "name": "Jinbe",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-006.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-006.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-006.webp"
+  },
+  {
+    "id": "ST03-007",
+    "pack_id": "569003",
+    "name": "Sentomaru",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-007.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-007.webp"
+  },
+  {
+    "id": "ST03-008",
+    "pack_id": "569003",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008.webp"
+  },
+  {
+    "id": "ST03-009",
+    "pack_id": "569003",
+    "name": "Donquixote Doflamingo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-009.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-009.webp"
+  },
+  {
+    "id": "ST03-010",
+    "pack_id": "569003",
+    "name": "Bartholomew Kuma",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-010.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-010.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Revolutionary Army"
+    ],
+    "effect": "[On Play] Look at 3 cards from the top of your deck and return them to the top or bottom of the deck in any order.",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-010.webp"
+  },
+  {
+    "id": "ST03-011",
+    "pack_id": "569003",
+    "name": "Buggy",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-011.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-011.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Buggy's Delivery"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-011.webp"
+  },
+  {
+    "id": "ST03-012",
+    "pack_id": "569003",
+    "name": "Pacifista",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-012.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Biological Weapon",
+      "Navy"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-012.webp"
+  },
+  {
+    "id": "ST03-013",
+    "pack_id": "569003",
+    "name": "Boa Hancock",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-013.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-013.webp"
+  },
+  {
+    "id": "ST03-014",
+    "pack_id": "569003",
+    "name": "Marshall.D.Teach",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-014.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Blackbeard Pirates"
+    ],
+    "effect": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-014.webp"
+  },
+  {
+    "id": "ST03-002_r1",
+    "pack_id": "569017",
+    "name": "Edward Weevil",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-002_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-002_r1.webp"
+  },
+  {
+    "id": "ST03-004_r1",
+    "pack_id": "569017",
+    "name": "Gecko Moria",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-004_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-004_r1.webp"
+  },
+  {
+    "id": "ST03-005_r1",
+    "pack_id": "569017",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-005_r1.webp"
+  },
+  {
+    "id": "ST03-008_r1",
+    "pack_id": "569017",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_r1.webp"
+  },
+  {
+    "id": "ST03-009_p1",
+    "pack_id": "569103",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-009_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-009_p1.webp"
+  },
+  {
+    "id": "ST03-004_p1",
+    "pack_id": "569108",
+    "name": "Gecko Moria",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-004_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-004_p1.webp"
+  },
+  {
+    "id": "ST03-005_p4",
+    "pack_id": "569301",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-005_p4.webp"
+  },
+  {
+    "id": "ST03-005_p5",
+    "pack_id": "569301",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005_p5.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p5.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-005_p5.webp"
+  },
+  {
+    "id": "ST03-005_r2",
+    "pack_id": "569301",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005_r2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-005_r2.webp"
+  },
+  {
+    "id": "ST03-008_p6",
+    "pack_id": "569301",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_p6.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p6.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_p6.webp"
+  },
+  {
+    "id": "ST03-008_p7",
+    "pack_id": "569301",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_p7.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p7.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_p7.webp"
+  },
+  {
+    "id": "ST03-008_r2",
+    "pack_id": "569301",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_r2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_r2.webp"
+  },
+  {
+    "id": "ST03-013_p2",
+    "pack_id": "569301",
+    "name": "Boa Hancock",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-013_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-013_p2.webp"
+  },
+  {
+    "id": "ST03-013_p3",
+    "pack_id": "569301",
+    "name": "Boa Hancock",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-013_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-013_p3.webp"
+  },
+  {
+    "id": "ST03-013_p4",
+    "pack_id": "569301",
+    "name": "Boa Hancock",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-013_p4.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p4.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-013_p4.webp"
+  },
+  {
+    "id": "ST03-013_r1",
+    "pack_id": "569301",
+    "name": "Boa Hancock",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-013_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_r1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] Play this card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-013_r1.webp"
+  },
+  {
+    "id": "ST03-008_p1",
+    "pack_id": "569801",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_p1.webp"
+  },
+  {
+    "id": "ST03-003_p1",
+    "pack_id": "569901",
+    "name": "Crocodile",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-003_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-003_p1.webp"
+  },
+  {
+    "id": "ST03-005_p1",
+    "pack_id": "569901",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-005_p1.webp"
+  },
+  {
+    "id": "ST03-007_p1",
+    "pack_id": "569901",
+    "name": "Sentomaru",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-007_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-007_p1.webp"
+  },
+  {
+    "id": "ST03-008_p2",
+    "pack_id": "569901",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_p2.webp"
+  },
+  {
+    "id": "ST03-008_p3",
+    "pack_id": "569901",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_p3.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-008_p3.webp"
+  },
+  {
+    "id": "ST03-014_p1",
+    "pack_id": "569901",
+    "name": "Marshall.D.Teach",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-014_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Blackbeard Pirates"
+    ],
+    "effect": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST03-014_p1.webp"
+  }
+]

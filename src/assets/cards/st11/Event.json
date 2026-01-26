@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ST11-003",
+    "pack_id": "569011",
+    "name": "Backlight",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-003.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 5 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-003.webp"
+  },
+  {
+    "id": "ST11-004",
+    "pack_id": "569011",
+    "name": "New Genesis",
+    "rarity": "SuperRare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-004.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-004.webp"
+  },
+  {
+    "id": "ST11-005",
+    "pack_id": "569011",
+    "name": "I'm invincible",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-005.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "音楽",
+      "FILM"
+    ],
+    "effect": "[Main] Set up to 1 of your [Uta] Leader as active.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-005.webp"
+  },
+  {
+    "id": "ST11-003_p2",
+    "pack_id": "569016",
+    "name": "Backlight",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-003_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 5 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-003_p2.webp"
+  },
+  {
+    "id": "ST11-004_p2",
+    "pack_id": "569016",
+    "name": "New Genesis",
+    "rarity": "SuperRare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-004_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-004_p2.webp"
+  },
+  {
+    "id": "ST11-005_p2",
+    "pack_id": "569016",
+    "name": "I'm invincible",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-005_p2.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] Set up to 1 of your [Uta] Leader as active.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-005_p2.webp"
+  },
+  {
+    "id": "ST11-003_p1",
+    "pack_id": "569901",
+    "name": "Backlight",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-003_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 5 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-003_p1.webp"
+  },
+  {
+    "id": "ST11-004_p1",
+    "pack_id": "569901",
+    "name": "New Genesis",
+    "rarity": "SuperRare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-004_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-004_p1.webp"
+  },
+  {
+    "id": "ST11-005_p1",
+    "pack_id": "569901",
+    "name": "I'm invincible",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST11-005_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p1.png?251212",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Music",
+      "FILM"
+    ],
+    "effect": "[Main] Set up to 1 of your [Uta] Leader as active.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST11-005_p1.webp"
+  }
+]

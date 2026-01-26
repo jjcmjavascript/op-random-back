@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ST22-015",
+    "pack_id": "569022",
+    "name": "I Am Whitebeard!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST22-015.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-015.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", play up to 1 [Edward.Newgate] from your hand. Then, you may add 1 card from the top or bottom of your Life cards to your hand. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST22-015.webp"
+  },
+  {
+    "id": "ST22-016",
+    "pack_id": "569022",
+    "name": "Take That Back!! Take Back What You Said!!",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST22-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-016.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Counter] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST22-016.webp"
+  },
+  {
+    "id": "ST22-017",
+    "pack_id": "569022",
+    "name": "Fire Fist",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST22-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-017.png?251212",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Main] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card. Then, place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST22-017.webp"
+  }
+]

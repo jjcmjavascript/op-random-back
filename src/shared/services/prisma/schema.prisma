@@ -1,0 +1,69 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id       String  @id @default(auto()) @map("_id") @db.ObjectId
+  username String  @unique
+  email    String
+  rut      String?
+  name     String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Card {
+  id         String   @id @default(auto()) @map("_id") @db.ObjectId
+  cardId     String   @unique @map("id")
+  packId     String   @map("pack_id")
+  name       String
+  expansion  String
+  rarity     String
+  category   String
+  imgUrl     String?  @map("img_url")
+  imgFullUrl String?  @map("img_full_url")
+  colors     String[]
+  cost       Int?
+  attributes String[]
+  power      Int?
+  counter    Int?
+  types      String[]
+  effect     String
+  trigger    String?
+}
+
+type LeaderStat {
+  leader            String
+  leaderName        String
+  wins              Int
+  number_of_matches Int
+  total_matches     Int
+  raw_win_rate      Float
+  play_rate         Float
+  weighted_win_rate Float
+  first_win_rate    Float
+  second_win_rate   Float
+}
+
+model Ranking {
+  id String @id @default(auto()) @map("_id") @db.ObjectId
+
+  day DateTime
+
+  leaders LeaderStat[]
+
+  // metadata opcional
+  source String?
+  format String? // ej: "optcg-meta-v1"
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([day])
+}

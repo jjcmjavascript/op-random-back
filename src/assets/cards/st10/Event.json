@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ST10-015",
+    "pack_id": "569010",
+    "name": "Gum-Gum Giant Sumo Slap",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST10-015.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-015.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle, and K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST10-015.webp"
+  },
+  {
+    "id": "ST10-016",
+    "pack_id": "569010",
+    "name": "Gum-Gum Kong Gatling",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST10-016.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-016.png?251212",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with 7000 power or less.",
+    "trigger": "[Trigger] Up to 1 of your Leader gains +1000 power until the end of your next turn.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST10-016.webp"
+  },
+  {
+    "id": "ST10-017",
+    "pack_id": "569010",
+    "name": "Punk Vise",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST10-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-017.png?251212",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Kid Pirates"
+    ],
+    "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 2 or less, and add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST10-017.webp"
+  }
+]

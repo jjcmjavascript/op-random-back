@@ -1,0 +1,68 @@
+[
+  {
+    "id": "OP04-096",
+    "pack_id": "569104",
+    "name": "Corrida Coliseum",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP04-096.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-096.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "If your Leader has the {Dressrosa} type, your {Dressrosa} type Characters can attack Characters on the turn in which they are played.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-096.webp"
+  },
+  {
+    "id": "OP04-096_p1",
+    "pack_id": "569302",
+    "name": "Corrida Coliseum",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP04-096_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-096_p1.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "If your Leader has the {Dressrosa} type, your {Dressrosa} type Characters can attack Characters on the turn in which they are played.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-096_p1.webp"
+  },
+  {
+    "id": "OP04-096_r1",
+    "pack_id": "569302",
+    "name": "Corrida Coliseum",
+    "rarity": "Common",
+    "category": "Stage",
+    "img_url": "../images/cardlist/card/OP04-096_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-096_r1.png?251212",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "If your Leader has the {Dressrosa} type, your {Dressrosa} type Characters can attack Characters on the turn in which they are played.",
+    "trigger": null,
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/OP04-096_r1.webp"
+  }
+]

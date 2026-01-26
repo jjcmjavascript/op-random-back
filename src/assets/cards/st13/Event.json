@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ST13-017",
+    "pack_id": "569013",
+    "name": "Flame Dragon King",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST13-017.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-017.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, look at all your Life cards and place them back in your Life area in any order.",
+    "trigger": "[Trigger] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST13-017.webp"
+  },
+  {
+    "id": "ST13-018",
+    "pack_id": "569013",
+    "name": "Gum-Gum Jet Spear",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST13-018.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-018.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Punk Hazard",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 0 Life cards, draw 1 card.",
+    "trigger": "[Trigger] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST13-018.webp"
+  },
+  {
+    "id": "ST13-019",
+    "pack_id": "569013",
+    "name": "The Three Brothers' Bond",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST13-019.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Goa Kingdom"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Sabo], [Portgas.D.Ace], or [Monkey.D.Luffy] with a cost of 5 or less and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST13-019.webp"
+  },
+  {
+    "id": "ST13-019_p1",
+    "pack_id": "569302",
+    "name": "The Three Brothers' Bond",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST13-019_p1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019_p1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Goa Kingdom"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Sabo], [Portgas.D.Ace], or [Monkey.D.Luffy] with a cost of 5 or less and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST13-019_p1.webp"
+  },
+  {
+    "id": "ST13-019_r1",
+    "pack_id": "569302",
+    "name": "The Three Brothers' Bond",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/ST13-019_r1.png?251212",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019_r1.png?251212",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Goa Kingdom"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Sabo], [Portgas.D.Ace], or [Monkey.D.Luffy] with a cost of 5 or less and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "finalUrl": "https://cdn.jsdelivr.net/gh/itsnotjs-creator/op-images/ST13-019_r1.webp"
+  }
+]

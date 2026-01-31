@@ -9,7 +9,7 @@
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "npx prisma generate && nest start -b swc --type-check",
-    "dev": "nest start  -b swc -w",
+    "dev": "nest start -b swc -w",
     "debug": "nest start --debug --watch",
     "prod": "npx prisma generate && node dist/main",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
@@ -19,7 +19,8 @@
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "prepare": "husky",
-    "seed:cards": "ts-node -r tsconfig-paths/register src/scripts/seed-cards.ts"
+    "seed:cards": "ts-node -r tsconfig-paths/register src/scripts/seed-cards.ts",
+    "insert:ranking": "ts-node -r tsconfig-paths/register src/scripts/insert-ranking.ts"
   },
   "dependencies": {
     "@fastify/helmet": "^13.0.1",

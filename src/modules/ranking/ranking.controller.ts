@@ -13,4 +13,16 @@ export class RankingController {
   findAll() {
     return this.rankingFindAllRepository.execute();
   }
+
+  // @Post('manual-update')
+  // async manualUpdate() {
+  //   console.log('[API] Ejecutando actualización manual del ranking...');
+  //   const result = await this.rankingInsertService.execute();
+  //   return {
+  //     success: true,
+  //     leadersProcessed: result.length,
+  //     leaders: result,
+  //     message: 'Ranking actualizado exitosamente de forma manual',
+  //   };
+  // }
 }

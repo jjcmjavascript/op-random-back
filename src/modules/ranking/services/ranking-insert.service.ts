@@ -13,10 +13,22 @@ export class RankingInsertService {
   ) {}
 
   async execute(): Promise<LeaderStatCamelCase[]> {
+    console.log('[RankingInsert] 1. Fetching ranking data...');
+    const rankingUrl = this.configService.get<string>('ranking_url');
+    console.log(`[RankingInsert] URL: ${rankingUrl}`);
+
     const response = await this.fetchService.send<LeaderStat[]>({
-      url: this.configService.get<string>('ranking_url')!,
+      url: rankingUrl!,
       method: 'get',
     });
+
+    console.log(
+      `[RankingInsert] 2. Datos recibidos: ${response.data?.length || 0} líderes`,
+    );
+
+    if (!response.data || response.data.length === 0) {
+      throw new Error('No se recibieron datos del ranking');
+    }
 
     const top10Leaders = response.data.slice(0, 10).map((leaderStat) => ({
       leader: leaderStat.leader,
@@ -31,21 +43,46 @@ export class RankingInsertService {
       second_win_rate: leaderStat.second_win_rate,
     }));
 
-    const ranking = await this.rankingCreateRepository.execute({
-      day: new Date(),
-      leaders: top10Leaders,
-      source: 'web',
-      format: this.configService.get<string>('op_format'),
-    });
+    console.log(
+      `[RankingInsert] 3. Top 10 líderes preparados: ${top10Leaders.map((l) => l.leaderName).join(', ')}`,
+    );
 
-    return ranking.leaders.map((leader) => ({
-      leader: leader.leader,
-      leaderName: leader.leaderName,
-      wins: leader.wins,
-      matches: leader.number_of_matches,
-      winRate: Math.round((leader.wins / leader.number_of_matches) * 100),
-      first: leader.first_win_rate.toFixed(2),
-      second: leader.second_win_rate.toFixed(2),
-    }));
+    // Usar solo la fecha sin hora para evitar duplicados
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const format = this.configService.get<string>('op_format');
+    console.log(
+      `[RankingInsert] 4. Guardando en DB - Fecha: ${today.toISOString()}, Formato: ${format}`,
+    );
+
+    try {
+      const ranking = await this.rankingCreateRepository.execute({
+        day: today,
+        leaders: top10Leaders,
+        source: 'web',
+        format: format,
+      });
+
+      console.log(
+        `[RankingInsert] 5. ✅ Ranking guardado exitosamente - ID: ${ranking.id}`,
+      );
+      console.log(
+        `[RankingInsert] Líderes guardados: ${ranking.leaders.length}`,
+      );
+
+      return ranking.leaders.map((leader) => ({
+        leader: leader.leader,
+        leaderName: leader.leaderName,
+        wins: leader.wins,
+        matches: leader.number_of_matches,
+        winRate: Math.round((leader.wins / leader.number_of_matches) * 100),
+        first: leader.first_win_rate.toFixed(2),
+        second: leader.second_win_rate.toFixed(2),
+      }));
+    } catch (error) {
+      console.error('[RankingInsert] ❌ Error al guardar en DB:', error);
+      throw error;
+    }
   }
 }

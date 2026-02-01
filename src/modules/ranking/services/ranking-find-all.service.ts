@@ -1,7 +1,11 @@
 import { Injectable } from '@nestjs/common';
 import { RankingFindAllRepository } from '../repositories/ranking-find-all.repository';
 import { CardFindAllRepository } from '../../card/repositories/card-find-all.repository';
-import { getEndOfToday, getStartOfToday } from '@shared/helpers/date.helper';
+import {
+  getEndOfDay,
+  getPreviousNDays,
+  getStartOfDay,
+} from '@shared/helpers/date.helper';
 
 @Injectable()
 export class RankingFindAllService {
@@ -11,11 +15,12 @@ export class RankingFindAllService {
   ) {}
 
   async execute() {
+    const previousDay = getPreviousNDays(1);
     const result = await this.rankingFindAllRepository.execute({
       where: {
         day: {
-          gte: getStartOfToday(),
-          lte: getEndOfToday(),
+          gte: getStartOfDay(previousDay),
+          lte: getEndOfDay(previousDay),
         },
       },
     });

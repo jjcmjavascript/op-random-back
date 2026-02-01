@@ -35,14 +35,18 @@ export const getLastNDaysAtEndOfDay = (n: number): Date => {
     .toDate();
 };
 
-export const getStartOfToday = (): Date => {
-  return dayjs().tz('America/Santiago').startOf('day').toDate();
+export const getStartOfDay = (date?: Date): Date => {
+  return dayjs(date).tz('America/Santiago').startOf('day').toDate();
 };
 
-export const getEndOfToday = (): Date => {
-  return dayjs().tz('America/Santiago').endOf('day').toDate();
+export const getEndOfDay = (date?: Date): Date => {
+  return dayjs(date).tz('America/Santiago').endOf('day').toDate();
 };
 
 export const getNextNDays = (n: number): Date => {
   return dayjs().tz('America/Santiago').add(n, 'day').toDate();
+};
+
+export const getPreviousNDays = (n: number): Date => {
+  return dayjs().tz('America/Santiago').subtract(n, 'day').toDate();
 };

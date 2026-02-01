@@ -3,6 +3,7 @@ import { FetchService } from '@shared/services/fetch/fetch.service';
 import { RankingCreateRepository } from '../repositories/ranking-create.repository';
 import { LeaderStat, LeaderStatCamelCase } from '../types/ranking.interface';
 import { ConfigService } from '@nestjs/config';
+import { getStartOfToday } from '@shared/helpers/date.helper';
 
 @Injectable()
 export class RankingInsertService {
@@ -48,8 +49,7 @@ export class RankingInsertService {
     );
 
     // Usar solo la fecha sin hora para evitar duplicados
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
+    const today = getStartOfToday();
 
     const format = this.configService.get<string>('op_format');
     console.log(

@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Post } from '@nestjs/common';
 import { RankingFindAllService } from './services/ranking-find-all.service';
 import { RankingInsertService } from './services/ranking-insert.service';
 
@@ -14,15 +14,14 @@ export class RankingController {
     return this.rankingFindAllRepository.execute();
   }
 
-  // @Post('manual-update')
-  // async manualUpdate() {
-  //   console.log('[API] Ejecutando actualización manual del ranking...');
-  //   const result = await this.rankingInsertService.execute();
-  //   return {
-  //     success: true,
-  //     leadersProcessed: result.length,
-  //     leaders: result,
-  //     message: 'Ranking actualizado exitosamente de forma manual',
-  //   };
-  // }
+  @Post('manual-update')
+  async manualUpdate() {
+    const result = await this.rankingInsertService.execute();
+    return {
+      success: true,
+      leadersProcessed: result.length,
+      leaders: result,
+      message: 'Ranking actualizado exitosamente de forma manual',
+    };
+  }
 }

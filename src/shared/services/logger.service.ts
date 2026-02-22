@@ -37,24 +37,24 @@ export class Logger {
     this.logger = pino({ ...loggerOptions, name });
   }
 
-  init(message: string, objects?: Record<string, unknown>) {
-    this.logger.info({ objects }, `🚀🚀🚀 (START) ${message}`);
+  init(message: string, ...args: unknown[]) {
+    this.logger.info(args, `🚀🚀🚀 (START) ${message}`);
   }
 
-  end(message: string, objects?: Record<string, unknown>) {
-    this.logger.info({ objects }, `😍😍😍 (END) ${message}`);
+  end(message: string, ...args: unknown[]) {
+    this.logger.info(args, `😍😍😍 (END) ${message}`);
   }
 
-  error(message: string, objects?: Record<string, unknown>) {
-    this.logger.error({ objects }, `😿😿😿 (ERROR) ${message}`);
+  error(message: string, ...args: unknown[]) {
+    this.logger.error(args, `😿😿😿 (ERROR) ${message}`);
   }
 
-  process(message: string, objects?: Record<string, unknown>) {
-    this.logger.info({ objects }, `❤️‍🔥❤️‍🔥❤️‍🔥 (PROCESS) ${message}`);
+  process(message: string, ...args: unknown[]) {
+    this.logger.info(args, `❤️‍🔥❤️‍🔥❤️‍🔥 (PROCESS) ${message}`);
   }
 
-  debug(message: string, objects?: Record<string, unknown>) {
-    this.logger.debug({ objects }, ` 🐛🐛🐛 (DEBUG) ${message}`);
+  debug(message: string, ...args: unknown[]) {
+    this.logger.debug(args, ` 🐛🐛🐛 (DEBUG) ${message}`);
   }
 
   fromError(error: unknown) {

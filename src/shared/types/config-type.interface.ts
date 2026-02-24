@@ -1,6 +1,6 @@
 export interface JwtConfig {
-  secret: string | undefined;
-  expiresIn: string | undefined;
+  secret: string;
+  expiresIn: string;
 }
 
 export interface ConfigType {

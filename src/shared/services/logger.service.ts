@@ -30,6 +30,17 @@ const loggerOptions = pino(
   process.env.NODE_ENV === 'production' ? defaultFormat : prettyFormat,
 );
 
+const extractErrorFromArgs = (args: unknown[]) => {
+  return args.map((arg) => {
+    if (arg instanceof Error) {
+      return {
+        message: arg.message,
+        stack: arg.stack,
+      };
+    }
+    return arg;
+  });
+};
 export class Logger {
   private readonly logger: pino.Logger;
 
@@ -38,23 +49,23 @@ export class Logger {
   }
 
   init(message: string, ...args: unknown[]) {
-    this.logger.info(args, `🚀🚀🚀 (START) ${message}`);
+    this.logger.info(extractErrorFromArgs(args), `🚀🚀🚀 (START) ${message}`);
   }
 
   end(message: string, ...args: unknown[]) {
-    this.logger.info(args, `😍😍😍 (END) ${message}`);
+    this.logger.info(extractErrorFromArgs(args), `😍😍😍 (END) ${message}`);
   }
 
   error(message: string, ...args: unknown[]) {
-    this.logger.error(args, `😿😿😿 (ERROR) ${message}`);
+    this.logger.error(extractErrorFromArgs(args), `😿😿😿 (ERROR) ${message}`);
   }
 
   process(message: string, ...args: unknown[]) {
-    this.logger.info(args, `❤️‍🔥❤️‍🔥❤️‍🔥 (PROCESS) ${message}`);
+    this.logger.info(extractErrorFromArgs(args), `❤️‍🔥❤️‍🔥❤️‍🔥 (PROCESS) ${message}`);
   }
 
   debug(message: string, ...args: unknown[]) {
-    this.logger.debug(args, ` 🐛🐛🐛 (DEBUG) ${message}`);
+    this.logger.debug(extractErrorFromArgs(args), ` 🐛🐛🐛 (DEBUG) ${message}`);
   }
 
   fromError(error: unknown) {

@@ -1,11 +1,14 @@
+import { Injectable } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { Logger } from '@shared/services/logger.service';
 import { chromium } from 'playwright';
 
+@Injectable()
 export class GetUrlFromOriginService {
   private readonly logger = new Logger(GetUrlFromOriginService.name);
 
   constructor(private readonly configService: ConfigService) {}
+
   async execute(): Promise<Set<string>> {
     const urls = new Set<string>();
 
@@ -14,15 +17,15 @@ export class GetUrlFromOriginService {
       const page = await browser.newPage();
 
       page.on('request', (req) => {
-        const url = req.url();
-        console.log('[REQUEST]', url);
-        if (url.includes('cdn.cardkaizoku.com/stats/')) {
+        const url: string = req.url();
+        if (
+          url.includes(this.configService.get<string>('ranking_url_to_find')!)
+        ) {
           urls.add(url);
-          console.log('[STATS URL]', url);
         }
       });
 
-      await page.goto(this.configService.get<string>('RANKING_URL')!, {
+      await page.goto(this.configService.get<string>('ranking_url')!, {
         waitUntil: 'networkidle',
       });
 

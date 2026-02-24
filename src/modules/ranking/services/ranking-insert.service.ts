@@ -5,6 +5,7 @@ import { LeaderStat, LeaderStatCamelCase } from '../types/ranking.interface';
 import { ConfigService } from '@nestjs/config';
 import { getStartOfDay } from '@shared/helpers/date.helper';
 import { Logger } from '@shared/services/logger.service';
+import { GetUrlFromOriginService } from './get-url-from-origin.service';
 
 @Injectable()
 export class RankingInsertService {
@@ -14,12 +15,21 @@ export class RankingInsertService {
     private readonly fetchService: FetchService,
     private readonly rankingCreateRepository: RankingCreateRepository,
     private readonly configService: ConfigService,
+    private readonly getUrlFromOriginService: GetUrlFromOriginService,
   ) {}
 
   async execute(): Promise<LeaderStatCamelCase[]> {
-    this.logger.process('1. Fetching ranking data...');
-    const rankingUrl = this.configService.get<string>('RANKING_URL')!;
-    this.logger.process(`2. URL: ${rankingUrl}`);
+    this.logger.process('1. Getting URLs from origin...');
+    const urls = await this.getUrlFromOriginService.execute();
+    const urlsArray = Array.from(urls);
+
+    if (urlsArray.length === 0) {
+      this.logger.process('no url founded');
+      return [];
+    }
+
+    const rankingUrl = urlsArray[0];
+    this.logger.process(`2. URL found: ${rankingUrl}`);
 
     const response = await this.fetchService.send<LeaderStat[]>({
       url: rankingUrl,
@@ -55,8 +65,15 @@ export class RankingInsertService {
     const today = getStartOfDay();
 
     const format = this.configService.get<string>('op_format');
+
     this.logger.process(
       `4. Guardando en DB - Fecha: ${today.toISOString()}, Formato: ${format}`,
+      {
+        day: today,
+        leaders: top10Leaders,
+        source: 'web',
+        format: format,
+      },
     );
 
     try {

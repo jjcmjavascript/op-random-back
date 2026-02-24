@@ -9,5 +9,6 @@ export interface ConfigType {
   baseUrl: string | undefined;
   op_format: string;
   ranking_url: string;
+  ranking_url_to_find: string;
   jwt: JwtConfig;
 }

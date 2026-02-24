@@ -8,6 +8,7 @@ import { RankingCreateRepository } from './repositories/ranking-create.repositor
 import { CardFindAllRepository } from '../card/repositories/card-find-all.repository';
 import { RankingSchedulerService } from './services/ranking-scheduler.service';
 import { FetchService } from '@shared/services/fetch/fetch.service';
+import { GetUrlFromOriginService } from './services/get-url-from-origin.service';
 
 @Module({
   providers: [
@@ -19,6 +20,7 @@ import { FetchService } from '@shared/services/fetch/fetch.service';
     RankingFindAllService,
     RankingInsertService,
     RankingSchedulerService,
+    GetUrlFromOriginService,
   ],
   controllers: [RankingController],
 })

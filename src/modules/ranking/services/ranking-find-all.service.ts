@@ -15,7 +15,7 @@ export class RankingFindAllService {
   ) {}
 
   async execute() {
-    const previousDay = getPreviousNDays(1);
+    const previousDay = getPreviousNDays(0);
     const result = await this.rankingFindAllRepository.execute({
       where: {
         day: {

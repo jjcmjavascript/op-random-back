@@ -22,8 +22,8 @@ import { ScheduleModule } from '@nestjs/schedule';
       global: true,
       imports: [ConfigModule],
       useFactory: (configService: ConfigService) => ({
-        secret: configService.get<string>('jwt.secret'),
-        signOptions: { expiresIn: configService.get<string>('jwt.expiresIn') },
+        secret: configService.get<string>('jwt.secret')!,
+        signOptions: { expiresIn: configService.get('jwt.expiresIn')! },
       }),
       inject: [ConfigService],
     }),

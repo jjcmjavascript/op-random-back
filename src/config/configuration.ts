@@ -45,5 +45,9 @@ export default (): ConfigType => {
     },
     op_format: OP_FORMAT,
     ranking_url: rankingUrl,
+    ranking_url_to_find: getRequiredEnvVar(
+      'RANKING_URL_TO_FIND',
+      'RANKING_URL_TO_FIND must be defined',
+    ),
   };
 };

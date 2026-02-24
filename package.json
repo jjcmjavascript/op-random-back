@@ -20,7 +20,8 @@
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "prepare": "husky",
     "seed:cards": "ts-node -r tsconfig-paths/register src/scripts/seed-cards.ts",
-    "insert:ranking": "ts-node -r tsconfig-paths/register src/scripts/insert-ranking.ts"
+    "insert:ranking": "ts-node -r tsconfig-paths/register src/scripts/insert-ranking.ts",
+    "test:get-urls": "ts-node -r tsconfig-paths/register src/scripts/test-get-url-from-origin.ts"
   },
   "dependencies": {
     "@fastify/helmet": "^13.0.1",
@@ -42,6 +43,7 @@
     "passport-jwt": "^4.0.1",
     "pino": "^9.7.0",
     "pino-pretty": "^13.0.0",
+    "playwright": "^1.58.2",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
   },
